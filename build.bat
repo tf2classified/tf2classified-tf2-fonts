@@ -1,1 +1,1 @@
-"C:\Program Files (x86)\FontForgeBuilds\fontforge.bat" -script build.py
+"C:\Program Files\FontForgeBuilds\fontforge.bat" -script build.py

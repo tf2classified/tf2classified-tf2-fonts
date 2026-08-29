@@ -1,17 +1,20 @@
-# tf2c-fonts
+# Team Fortress 2 Classified - TF2 Fonts
+This repository contains source files and directories for TF2 Classified's extensions of Team Fortress 2's font set.
 
-This is a fork of Team Fortress 2's fonts. Its main features are the following:
+Currently, these extensions support the following glyph sets:
+* Latin
+* Cyrillic
+* Greek
+* Thai
 
-* Improved localization support.
-  * Latin (better diacritic support)
-  * Cyrillic
-  * Greek
-  * Thai
-* Smaller file size by using references for accented characters instead of storing copies of each glyphs.
+## Contributing
 
-It includes the following fonts:
+If you find an error within this font set, you can report it to us by [creating an issue](../../issues/new).
 
-* TF2C
-* TF2C Build
-* TF2C Secondary
-* TF2C Professor
+If you fix an error or add support for more glyphs, you may [create a pull request](../../compare). Make sure to include your Steam ID in the pull request description so we may grant you a medal in-game.
+
+## Copyright
+
+TF2 fonts are copyright (c) Andrea Wicklund 2007.
+
+Modified with extended character support by EMINOMA.
