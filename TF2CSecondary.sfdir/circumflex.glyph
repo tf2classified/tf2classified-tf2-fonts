@@ -1,6 +1,7 @@
 StartChar: circumflex
-Encoding: 710 710 191
+Encoding: 710 710 194
 Width: 210
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2

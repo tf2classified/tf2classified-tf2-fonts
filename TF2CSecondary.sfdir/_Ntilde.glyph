@@ -1,14 +1,10 @@
 StartChar: Ntilde
-Encoding: 209 209 123
-Width: 766
+Encoding: 209 209 126
+Width: 742
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 358 5 basechar 0
-AnchorPoint: "bottomattside" 685 13 basechar 0
-AnchorPoint: "bottomatt" 399 20 basechar 0
-AnchorPoint: "top" 329 856 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 771 S 1 0 0 1 453 81 2
-Refer: 46 78 N 1 0 0 1 0 0 2
+Refer: 49 78 N 1 0 0 1 0 0 2
+Refer: 197 732 N 1 0 0 1 198 80 2
 EndChar

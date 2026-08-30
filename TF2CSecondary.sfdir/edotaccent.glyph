@@ -1,13 +1,9 @@
 StartChar: edotaccent
-Encoding: 279 279 397
-Width: 612
+Encoding: 279 279 318
+Width: 598
 Flags: W
-AnchorPoint: "bottom" 312 -36 basechar 0
-AnchorPoint: "bottomattside" 477 23 basechar 0
-AnchorPoint: "bottomatt" 325 3 basechar 0
-AnchorPoint: "top" 287 618 basechar 0
 LayerCount: 2
 Fore
-Refer: 384 775 N 1 0 0 1 331 -173 2
-Refer: 69 101 N 1 0 0 1 0 0 3
+Refer: 341 775 N 1 0 0 1 323.242 -168.945 2
+Refer: 72 101 N 1 0 0 1 0 0 3
 EndChar

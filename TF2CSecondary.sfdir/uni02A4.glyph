@@ -1,9 +1,10 @@
 StartChar: uni02A4
-Encoding: 676 676 607
+Encoding: 676 676 732
 Width: 1033
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 68 100 N 1 0 0 1 0 0 2
-Refer: 591 658 S 1 0 0 1 549 0 2
+Refer: 71 100 N 1 0 0 1 0 0 2
+Refer: 721 658 S 1 0 0 1 536.133 0 2
 EndChar

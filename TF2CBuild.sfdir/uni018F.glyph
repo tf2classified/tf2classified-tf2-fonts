@@ -1,12 +1,7 @@
 StartChar: uni018F
-Encoding: 399 399 300
-AltUni2: 000259.ffffffff.0
+Encoding: 399 399 700
 Width: 1611
 Flags: W
-AnchorPoint: "bottomattside" 1087.04 120.96 basechar 0
-AnchorPoint: "bottomatt" 766.16 -6.71973 basechar 0
-AnchorPoint: "bottom" 757.76 -92.4004 basechar 0
-AnchorPoint: "top" 826.64 1570.8 basechar 0
 LayerCount: 2
 Fore
 SplineSet

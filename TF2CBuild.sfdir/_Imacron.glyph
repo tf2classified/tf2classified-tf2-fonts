@@ -1,13 +1,9 @@
 StartChar: Imacron
-Encoding: 298 298 264
-AltUni2: 00012b.ffffffff.0
+Encoding: 298 298 537
 Width: 585
-AnchorPoint: "bottom" 256 -61 basechar 0
-AnchorPoint: "bottomatt" 246 10 basechar 0
-AnchorPoint: "bottomattside" 102 31 basechar 0
-AnchorPoint: "top" 322 1759 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 207 772 N 1 0 0 1 573 180 2
-Refer: 41 73 N 1 0 0 1 0 0 2
+Refer: 296 772 N 1 0 0 1 573 180 2
+Refer: 44 73 N 1 0 0 1 0 0 2
 EndChar

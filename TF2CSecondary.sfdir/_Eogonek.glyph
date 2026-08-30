@@ -1,14 +1,62 @@
 StartChar: Eogonek
-Encoding: 280 280 174
-Width: 447
+Encoding: 280 280 177
+Width: 437
 GlyphClass: 2
 Flags: W
-AnchorPoint: "top" 236 736 basechar 0
-AnchorPoint: "bottom" 200 -31 basechar 0
-AnchorPoint: "bottomatt" 236 7 basechar 0
-AnchorPoint: "bottomattside" 411 -92 basechar 0
+TtInstrs:
+PUSHW_1
+ 20
+CALL
+PUSHW_3
+ 25
+ 29
+ 23
+CALL
+PUSHW_1
+ 25
+SRP0
+PUSHW_1
+ 21
+MDRP[rp0,grey]
+PUSHW_1
+ 21
+MDAP[rnd]
+SVTCA[y-axis]
+PUSHW_1
+ 19
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 443 808 S 1 0 0 1 460 0 2
-Refer: 37 69 N 1 0 0 1 0 0 2
+SplineSet
+396 1 m 1,0,1
+ 383 -15 383 -15 383 -29 c 0,2,3
+ 382 -48 382 -48 388 -62.5 c 128,-1,4
+ 394 -77 394 -77 404.5 -84.5 c 128,-1,5
+ 415 -92 415 -92 425 -94 c 0,6,7
+ 440 -97 440 -97 448 -94 c 1,8,-1
+ 448 -138 l 2,9,10
+ 448 -139 448 -139 439.5 -139.5 c 128,-1,11
+ 431 -140 431 -140 415 -135.5 c 128,-1,12
+ 399 -131 399 -131 381 -115 c 0,13,14
+ 366 -99 366 -99 362 -78.5 c 128,-1,15
+ 358 -58 358 -58 360 -34 c 128,-1,16
+ 362 -10 362 -10 365 2 c 1,17,-1
+ 396 1 l 1,0,1
+0 690 m 1,18,-1
+ 411 699 l 1,19,-1
+ 411 612 l 1,20,-1
+ 58 615 l 1,21,-1
+ 61 376 l 1,22,-1
+ 351 393 l 1,23,-1
+ 352 318 l 1,24,-1
+ 65 313 l 1,25,-1
+ 68 52 l 1,26,-1
+ 394 67 l 1,27,-1
+ 396 0 l 1,28,-1
+ 0 0 l 1,29,-1
+ 0 690 l 1,18,-1
+EndSplineSet
 EndChar

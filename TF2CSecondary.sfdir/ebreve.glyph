@@ -1,13 +1,9 @@
 StartChar: ebreve
-Encoding: 277 277 395
-Width: 612
+Encoding: 277 277 316
+Width: 598
 Flags: W
-AnchorPoint: "bottom" 312 -36 basechar 0
-AnchorPoint: "bottomattside" 477 23 basechar 0
-AnchorPoint: "bottomatt" 325 3 basechar 0
-AnchorPoint: "top" 287 630 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 774 N 1 0 0 1 430 -138 2
-Refer: 69 101 N 1 0 0 1 0 0 3
+Refer: 340 774 N 1 0 0 1 419.922 -134.766 2
+Refer: 72 101 N 1 0 0 1 0 0 3
 EndChar

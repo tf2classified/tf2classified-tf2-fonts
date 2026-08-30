@@ -1,11 +1,9 @@
 StartChar: uni0328
-Encoding: 808 808 443
+Encoding: 808 808 327
 Width: 0
+VWidth: 1024
 Flags: W
-AnchorPoint: "mkmkbottomattside" -49 -92 basemark 0
-AnchorPoint: "mkmkbottomattside" -51 4 mark 0
-AnchorPoint: "bottomattside" -51 4 mark 0
 LayerCount: 2
 Fore
-Refer: 359 731 N 1 0 0 1 -92 0 2
+Refer: 333 731 N 1 0 0 1 -89.8438 0 2
 EndChar

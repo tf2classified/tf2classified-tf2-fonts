@@ -1,13 +1,9 @@
 StartChar: emacron
-Encoding: 275 275 393
-Width: 612
+Encoding: 275 275 314
+Width: 598
 Flags: W
-AnchorPoint: "bottom" 312 -36 basechar 0
-AnchorPoint: "bottomattside" 477 23 basechar 0
-AnchorPoint: "bottomatt" 325 3 basechar 0
-AnchorPoint: "top" 287 635 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 772 S 1 0 0 1 417 -167 2
-Refer: 69 101 N 1 0 0 1 0 0 3
+Refer: 339 772 S 1 0 0 1 407.227 -163.086 2
+Refer: 72 101 N 1 0 0 1 0 0 3
 EndChar

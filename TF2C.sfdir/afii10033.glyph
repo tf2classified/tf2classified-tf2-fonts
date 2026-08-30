@@ -1,29 +1,42 @@
 StartChar: afii10033
-Encoding: 1055 1055 135
-AltUni2: 0003a0.ffffffff.0 0003c0.ffffffff.0 00043f.ffffffff.0
-Width: 533
+Encoding: 1055 1055 217
+Width: 522
 GlyphClass: 2
 Flags: W
+TtInstrs:
+PUSHW_1
+ 30
+CALL
+SVTCA[y-axis]
+PUSHW_1
+ 1
+MDAP[rnd]
+PUSHW_1
+ 3
+MDAP[rnd]
+PUSHW_1
+ 13
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-34 25 m 1,0,-1
- 38 717 l 1,1,-1
- 499 715 l 1,2,-1
- 478 641 l 1,3,-1
- 450 4 l 1,4,-1
- 380 4 l 1,5,-1
- 409 644 l 1,6,-1
- 419 644 l 1,7,8
- 414 649 414 649 413 649 c 0,9,10
- 410 652 410 652 104 659 c 1,11,12
- 105 98 105 98 106.5 70 c 128,-1,13
- 108 42 108 42 109 41 c 0,14,15
- 110 39 110 39 116.5 31.5 c 128,-1,16
- 123 24 123 24 161 -1 c 1,17,-1
- 5 -1 l 1,18,19
- 21 14 21 14 34 25 c 1,0,-1
+4 684 m 1,0,-1
+ 450 699 l 1,1,-1
+ 476 1 l 1,2,-1
+ 391 0 l 1,3,-1
+ 414 40 l 1,4,-1
+ 396 646 l 1,5,-1
+ 62 636 l 1,6,7
+ 81 47 81 47 82 42 c 0,8,9
+ 84 38 84 38 92.5 29.5 c 128,-1,10
+ 101 21 101 21 109 16 c 0,11,12
+ 121 7 121 7 133 0 c 1,13,-1
+ -1 0 l 1,14,-1
+ 26 33 l 1,15,-1
+ 4 684 l 1,0,-1
 EndSplineSet
-Kerns2: 57 -15 "kern" 55 -2 "kern" 54 -5 "kern"
-Substitution2: "mark-downsizer-1" afii10033.mark
+Kerns2: 60 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar

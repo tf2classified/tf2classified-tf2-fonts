@@ -1,13 +1,19 @@
 StartChar: T
-Encoding: 84 84 52
-AltUni2: 000422.ffffffff.0 0003a4.ffffffff.0 000074.ffffffff.0 0003c4.ffffffff.0 000442.ffffffff.0
+Encoding: 84 84 55
 Width: 1377
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottomattside" 714 29 basechar 0
-AnchorPoint: "bottomatt" 653 10 basechar 0
-AnchorPoint: "bottom" 622 -63 basechar 0
-AnchorPoint: "top" 619 1457 basechar 0
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 2
+MDAP[rnd]
+PUSHW_1
+ 6
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

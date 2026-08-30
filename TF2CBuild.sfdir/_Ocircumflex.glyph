@@ -1,14 +1,10 @@
 StartChar: Ocircumflex
-Encoding: 212 212 238
-AltUni2: 0000f4.ffffffff.0
+Encoding: 212 212 127
 Width: 1596
+GlyphClass: 2
 Flags: W
-AnchorPoint: "top" 736 1757 basechar 0
-AnchorPoint: "bottom" 778 -51 basechar 0
-AnchorPoint: "bottomatt" 758 0 basechar 0
-AnchorPoint: "bottomattside" 792 27 basechar 0
 LayerCount: 2
 Fore
-Refer: 203 770 S 1.19733 0 0 0.992432 956.407 215 2
-Refer: 47 79 N 1 0 0 1 0 0 2
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 194 710 N 1.19733 0 0 0.992432 511 215 2
 EndChar

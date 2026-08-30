@@ -1,8 +1,9 @@
 StartChar: Imacron
-Encoding: 298 298 385
+Encoding: 298 298 293
 Width: 144
+Flags: W
 LayerCount: 2
 Fore
-Refer: 356 772 N 1 0 0 1 124 -205 2
-Refer: 41 73 N 1 0 0 1 0 0 3
+Refer: 244 772 N 1 0 0 1 124 -205 2
+Refer: 43 73 N 1 0 0 1 0 0 3
 EndChar

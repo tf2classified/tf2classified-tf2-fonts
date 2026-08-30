@@ -1,11 +1,123 @@
 StartChar: Icircumflex
-Encoding: 206 206 93
-AltUni2: 0000ee.ffffffff.0
-Width: 221
+Encoding: 206 206 123
+Width: 208
 GlyphClass: 2
 Flags: W
+TtInstrs:
+PUSHW_1
+ 20
+CALL
+PUSHW_3
+ 12
+ 23
+ 23
+CALL
+NPUSHW
+ 27
+ 6
+ 12
+ 22
+ 12
+ 38
+ 12
+ 54
+ 12
+ 70
+ 12
+ 86
+ 12
+ 102
+ 12
+ 118
+ 12
+ 134
+ 12
+ 150
+ 12
+ 166
+ 12
+ 182
+ 12
+ 198
+ 12
+ 13
+DELTAP1
+NPUSHW
+ 5
+ 213
+ 12
+ 229
+ 12
+ 2
+DELTAP1
+SVTCA[y-axis]
+PUSHW_1
+ 0
+MDAP[rnd]
+PUSHW_1
+ 18
+MDAP[rnd]
+PUSHW_3
+ 1
+ 18
+ 0
+SRP1
+SRP2
+IP
+PUSHW_3
+ 5
+ 18
+ 0
+SRP1
+SRP2
+IP
+PUSHW_3
+ 6
+ 18
+ 0
+SRP1
+SRP2
+IP
+PUSHW_3
+ 7
+ 18
+ 0
+SRP1
+SRP2
+IP
+PUSHW_3
+ 17
+ 18
+ 0
+SRP1
+SRP2
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 234 -1 S 1 0 0 1 0 0 2
-Refer: 123 710 N 0.721649 0 0 0.444444 2 462 2
+SplineSet
+61 773 m 1,0,-1
+ 143 714 l 1,1,-1
+ 126 709 l 1,2,-1
+ 64 757 l 1,3,-1
+ 30 689 l 1,4,-1
+ 3 696 l 1,5,-1
+ 61 773 l 1,0,-1
+0 675 m 1,6,-1
+ 134 675 l 1,7,8
+ 125 667 125 667 118 661 c 0,9,10
+ 114 655 114 655 108 649 c 128,-1,11
+ 102 643 102 643 101 639 c 0,12,13
+ 101 638 101 638 103 346.5 c 128,-1,14
+ 105 55 105 55 106 54 c 0,15,16
+ 108 51 108 51 165 2 c 1,17,-1
+ 2 0 l 1,18,19
+ 30 26 30 26 35 36 c 0,20,21
+ 37 40 37 40 39 334 c 128,-1,22
+ 41 628 41 628 41 631 c 0,23,24
+ 38 636 38 636 32.5 643 c 128,-1,25
+ 27 650 27 650 0 675 c 1,6,-1
+EndSplineSet
 EndChar

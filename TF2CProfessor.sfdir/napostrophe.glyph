@@ -1,10 +1,9 @@
 StartChar: napostrophe
-Encoding: 329 329 351
+Encoding: 329 329 318
 Width: 480
 Flags: W
 LayerCount: 2
 Fore
-Refer: 78 110 S 1 0 0 1 160 0 2
-Refer: 7 39 N 1 0 0 1 0 0 2
-Decomposition: "'n"
+Refer: 80 110 S 1 0 0 1 160 0 2
+Refer: 9 39 N 1 0 0 1 0 0 2
 EndChar

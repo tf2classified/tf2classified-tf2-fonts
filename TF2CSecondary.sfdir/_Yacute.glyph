@@ -1,14 +1,10 @@
 StartChar: Yacute
-Encoding: 221 221 135
-Width: 634
+Encoding: 221 221 138
+Width: 618
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 323 -31 basechar 0
-AnchorPoint: "bottomattside" 308 4 basechar 0
-AnchorPoint: "bottomatt" 341 17 basechar 0
-AnchorPoint: "top" 339 853 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 769 S 1 0 0 1 428 85 2
-Refer: 57 89 N 1 0 0 1 0 0 2
+Refer: 60 89 N 1 0 0 1 0 0 2
+Refer: 106 180 N 1 0 0 1 281 84 2
 EndChar

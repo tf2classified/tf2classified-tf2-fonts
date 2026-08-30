@@ -1,10 +1,10 @@
 StartChar: Ccaron
-Encoding: 268 268 213
-AltUni2: 00010d.ffffffff.0
+Encoding: 268 268 482
 Width: 532
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 228 -1 S 1 0 0 1 0 0 2
-Refer: 124 711 N 1 0 0 1 195 257 2
+Refer: 286 -1 S 1 0 0 1 0 0 2
+Refer: 197 711 N 1 0 0 1 190.43 250.977 2
 EndChar

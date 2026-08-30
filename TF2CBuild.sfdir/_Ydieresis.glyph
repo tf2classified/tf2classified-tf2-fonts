@@ -1,15 +1,10 @@
 StartChar: Ydieresis
-Encoding: 376 376 87
-AltUni2: 0000ff.ffffffff.0 0003ab.ffffffff.0 0003cb.ffffffff.0
+Encoding: 376 376 187
 Width: 1510
 GlyphClass: 2
 Flags: W
-AnchorPoint: "top" 766 1712 basechar 0
-AnchorPoint: "bottom" 809 -51 basechar 0
-AnchorPoint: "bottomatt" 799 10 basechar 0
-AnchorPoint: "bottomattside" 872 35 basechar 0
 LayerCount: 2
 Fore
-Refer: 167 776 N 1 0 0 1 987 75 2
-Refer: 57 89 N 1 0 0 1 0 0 2
+Refer: 60 89 N 1 0 0 1 0 0 3
+Refer: 100 168 N 1 0 0 1 518 75 2
 EndChar

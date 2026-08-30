@@ -1,14 +1,10 @@
 StartChar: Ugrave
-Encoding: 217 217 131
-Width: 746
+Encoding: 217 217 134
+Width: 728
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 348 -36 basechar 0
-AnchorPoint: "bottomattside" 481 25 basechar 0
-AnchorPoint: "bottomatt" 382 13 basechar 0
-AnchorPoint: "top" 338 851 basechar 0
 LayerCount: 2
 Fore
-Refer: 378 768 S 1 0 0 1 379 83 2
-Refer: 53 85 N 1 0 0 1 0 0 2
+Refer: 56 85 N 1 0 0 1 0 0 2
+Refer: 67 96 N 1 0 0 1 239 81 2
 EndChar

@@ -1,7 +1,7 @@
 StartChar: Xi
-Encoding: 926 926 181
-AltUni2: 0003be.ffffffff.0
+Encoding: 926 926 400
 Width: 569
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
@@ -30,5 +30,4 @@ SplineSet
  14 10 l 1,19,-1
  20 116 l 1,14,-1
 EndSplineSet
-Substitution2: "mark-downsizer-1" Xi.mark
 EndChar

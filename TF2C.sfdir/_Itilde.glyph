@@ -1,10 +1,10 @@
 StartChar: Itilde
-Encoding: 296 296 312
-AltUni2: 000129.ffffffff.0
+Encoding: 296 296 506
 Width: 221
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 234 -1 S 1 0 0 1 0 0 2
-Refer: 291 771 N 1 0 0 1 172 120 2
+Refer: 292 -1 S 1 0 0 1 0 0 2
+Refer: 364 771 N 1 0 0 1 167.969 117.188 2
 EndChar

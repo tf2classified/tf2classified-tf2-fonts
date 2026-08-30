@@ -1,11 +1,11 @@
 StartChar: Uacute
-Encoding: 218 218 105
-AltUni2: 0000fa.ffffffff.0
-Width: 552
+Encoding: 218 218 135
+Width: 540
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 246 -1 S 1 0 0 1 0 0 2
-Refer: 76 180 N 1 0 0 1 202 -13 2
+Refer: 56 85 N 1 0 0 1 0 0 3
+Refer: 67 96 N -1.50635 0 0 1.50659 353 -40 2
+Refer: 67 96 N -1.49231 0 0 1.50684 397 -380 2
 EndChar

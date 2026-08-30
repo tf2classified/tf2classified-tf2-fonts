@@ -1,0 +1,22 @@
+StartChar: Kappa
+Encoding: 922 922 755
+Width: 541
+VWidth: 1024
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 714 m 1,0,-1
+ 69 716 l 1,1,-1
+ 69 421 l 1,2,-1
+ 393 708 l 1,3,-1
+ 451 643 l 1,4,-1
+ 113 381 l 1,5,-1
+ 500 104 l 1,6,-1
+ 450 27 l 1,7,-1
+ 75 341 l 1,8,-1
+ 81 4 l 1,9,-1
+ 18 1 l 1,10,-1
+ 0 714 l 1,0,-1
+EndSplineSet
+EndChar

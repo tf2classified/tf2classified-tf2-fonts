@@ -1,0 +1,90 @@
+StartChar: agrave
+Encoding: 224 224 141
+Width: 505
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_1
+ 20
+CALL
+SVTCA[y-axis]
+PUSHW_1
+ 3
+MDAP[rnd]
+PUSHW_1
+ 7
+MDAP[rnd]
+PUSHW_1
+ 12
+MDAP[rnd]
+PUSHW_1
+ 15
+MDAP[rnd]
+PUSHW_1
+ 23
+MDAP[rnd]
+PUSHW_3
+ 13
+ 12
+ 3
+SRP1
+SRP2
+IP
+PUSHW_3
+ 14
+ 12
+ 3
+SRP1
+SRP2
+IP
+PUSHW_3
+ 17
+ 12
+ 3
+SRP1
+SRP2
+IP
+PUSHW_3
+ 18
+ 12
+ 3
+SRP1
+SRP2
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+279 1053 m 1,0,-1
+ 264 1041 l 1,1,-1
+ 178 1127 l 1,2,-1
+ 204 1151 l 1,3,-1
+ 279 1053 l 1,0,-1
+279 1053 m 1,4,-1
+ 264 1041 l 1,5,-1
+ 178 1127 l 1,6,-1
+ 204 1151 l 1,7,-1
+ 279 1053 l 1,4,-1
+221 698 m 1,8,-1
+ 206 686 l 1,9,-1
+ 120 772 l 1,10,-1
+ 146 796 l 1,11,-1
+ 221 698 l 1,8,-1
+0 0 m 1,12,-1
+ 206 668 l 1,13,-1
+ 480 9 l 1,14,-1
+ 365 2 l 1,15,-1
+ 388 31 l 1,16,-1
+ 200 502 l 1,17,-1
+ 140 279 l 1,18,-1
+ 303 290 l 1,19,-1
+ 314 240 l 1,20,-1
+ 129 229 l 1,21,-1
+ 65 26 l 1,22,-1
+ 90 0 l 1,23,-1
+ 1 1 l 1,24,-1
+ 0 0 l 1,12,-1
+EndSplineSet
+EndChar

@@ -1,10 +1,9 @@
 StartChar: Thorn.mark
-Encoding: 65565 -1 255
+Encoding: 65568 -1 313
 Width: 505
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottom" 139 -25 basechar 0
-AnchorPoint: "top" 261 686 basechar 0
 LayerCount: 2
 Fore
-Refer: 109 222 N 1 0 0 0.95 0 0 2
+Refer: 139 222 N 1 0 0 0.95 0 0 2
 EndChar

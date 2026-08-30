@@ -1,9 +1,9 @@
 StartChar: Abreve
-Encoding: 258 258 214
+Encoding: 258 258 230
 Width: 343
 Flags: W
 LayerCount: 2
 Fore
-Refer: 33 65 S 1 0 0 1 0 0 2
-Refer: 290 728 N 1 0 0 1 89 54 2
+Refer: 35 65 S 1 0 0 1 0 0 2
+Refer: 235 728 N 1 0 0 1 89 54 2
 EndChar

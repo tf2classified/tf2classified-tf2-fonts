@@ -1,11 +1,10 @@
 StartChar: Iacute
-Encoding: 205 205 92
-AltUni2: 0000ed.ffffffff.0
-Width: 221
+Encoding: 205 205 122
+Width: 208
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 234 -1 N 1 0 0 1 0 0 2
-Refer: 76 180 S 0.586556 0 0 0.581823 22 288 2
+Refer: 44 73 N 0.987366 0 0 0.96582 0 0 2
+Refer: 67 96 N -0.8797 0 0 0.880005 139 65 2
 EndChar

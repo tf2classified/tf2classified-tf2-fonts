@@ -1,10 +1,10 @@
 StartChar: otilde
-Encoding: 245 245 161
+Encoding: 245 245 163
 Width: 281
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 79 111 N 1 0 0 1 0 0 2
-Refer: 195 732 N 0.851013 0 0 0.788391 64 -104 2
+Refer: 81 111 N 1 0 0 1 0 0 3
+Refer: 197 732 N 0.851013 0 0 0.788391 64 -104 2
 EndChar

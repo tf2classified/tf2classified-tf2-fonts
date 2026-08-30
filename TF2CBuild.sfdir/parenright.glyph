@@ -1,8 +1,68 @@
 StartChar: parenright
-Encoding: 41 41 9
+Encoding: 41 41 12
 Width: 799
 GlyphClass: 2
 Flags: W
+TtInstrs:
+PUSHW_3
+ 5
+ 18
+ 3
+CALL
+NPUSHW
+ 5
+ 218
+ 18
+ 234
+ 18
+ 2
+DELTAP1
+NPUSHW
+ 27
+ 9
+ 18
+ 25
+ 18
+ 41
+ 18
+ 57
+ 18
+ 73
+ 18
+ 89
+ 18
+ 105
+ 18
+ 121
+ 18
+ 137
+ 18
+ 153
+ 18
+ 169
+ 18
+ 185
+ 18
+ 201
+ 18
+ 13
+DELTAP1
+PUSHW_1
+ 5
+SRP0
+PUSHW_1
+ 28
+MDRP[rp0,min,rnd,grey]
+SVTCA[y-axis]
+PUSHW_1
+ 0
+MDAP[rnd]
+PUSHW_1
+ 10
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -28,6 +88,7 @@ SplineSet
  244 1187 244 1187 193 1222.5 c 128,-1,23
  142 1258 142 1258 91.5 1281.5 c 128,-1,24
  41 1305 41 1305 0 1319 c 1,25,-1
+ 68 1536 l 1,26,-1
  68 1536 l 1,0,1
 EndSplineSet
 EndChar

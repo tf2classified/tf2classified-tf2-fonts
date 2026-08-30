@@ -1,14 +1,10 @@
 StartChar: Agrave
-Encoding: 192 192 218
-AltUni2: 0000e0.ffffffff.0
+Encoding: 192 192 107
 Width: 1454
+GlyphClass: 2
 Flags: W
-AnchorPoint: "bottomattside" 1084 51 basechar 0
-AnchorPoint: "bottom" 717 -10 basechar 0
-AnchorPoint: "bottomatt" 717 0 basechar 0
-AnchorPoint: "top" 671 1739 basechar 0
 LayerCount: 2
 Fore
-Refer: 201 768 N 1 0 0 1 801 203 2
-Refer: 33 65 N 1 0 0 1 0 0 2
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 460 203 2
 EndChar

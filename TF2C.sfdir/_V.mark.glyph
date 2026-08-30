@@ -1,11 +1,9 @@
 StartChar: V.mark
-Encoding: 65557 -1 247
+Encoding: 65560 -1 305
 Width: 549
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottomattside" 311 45 basechar 0
-AnchorPoint: "bottom" 292 -20 basechar 0
-AnchorPoint: "top" 297 701 basechar 0
 LayerCount: 2
 Fore
-Refer: 54 86 N 1 0 0 0.95 0 0 2
+Refer: 57 86 N 1 0 0 0.95 0 0 2
 EndChar

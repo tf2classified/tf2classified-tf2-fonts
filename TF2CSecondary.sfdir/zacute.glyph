@@ -1,14 +1,54 @@
 StartChar: zacute
-Encoding: 378 378 188
-Width: 484
+Encoding: 378 378 191
+Width: 473
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 225 -20 basechar 0
-AnchorPoint: "bottomattside" 424 2 basechar 0
-AnchorPoint: "bottomatt" 253 13 basechar 0
-AnchorPoint: "top" 222 678 basechar 0
+TtInstrs:
+PUSHW_1
+ 20
+CALL
+SVTCA[y-axis]
+PUSHW_1
+ 12
+MDAP[rnd]
+PUSHW_1
+ 4
+MDAP[rnd]
+PUSHW_3
+ 2
+ 4
+ 12
+SRP1
+SRP2
+IP
+PUSHW_3
+ 7
+ 4
+ 12
+SRP1
+SRP2
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 379 769 S 1 0 0 1 311 -90 2
-Refer: 90 122 N 1 0 0 1 0 0 2
+SplineSet
+400 472 m 1,0,-1
+ 401 432 l 1,1,-1
+ 130 61 l 1,2,-1
+ 417 62 l 1,3,-1
+ 414 -3 l 1,4,-1
+ 33 8 l 1,5,-1
+ 31 48 l 1,6,-1
+ 312 421 l 1,7,-1
+ 8 418 l 1,8,-1
+ 10 480 l 1,9,-1
+ 400 472 l 1,0,-1
+185 528 m 1,10,-1
+ 170 550 l 1,11,-1
+ 264 662 l 1,12,-1
+ 304 616 l 1,13,-1
+ 185 528 l 1,10,-1
+EndSplineSet
 EndChar

@@ -1,8 +1,19 @@
 StartChar: period
-Encoding: 46 46 14
+Encoding: 46 46 16
 Width: 128
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 1
+MDAP[rnd]
+PUSHW_1
+ 8
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -16,8 +27,9 @@ SplineSet
  68 108 l 1,7,-1
  80 112 l 1,8,-1
  92 108 l 1,9,-1
- 105 68 l 1,10,-1
- 100 47 l 1,11,-1
+ 96 96 l 1,10,-1
+ 105 68 l 1,11,-1
+ 100 47 l 1,12,-1
  92 39 l 1,0,-1
 EndSplineSet
 EndChar

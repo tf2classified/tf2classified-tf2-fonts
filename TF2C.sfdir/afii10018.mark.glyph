@@ -1,10 +1,9 @@
 StartChar: afii10018.mark
-Encoding: 65576 -1 266
+Encoding: 65579 -1 324
 Width: 566
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottom" 243 -15 basechar 0
-AnchorPoint: "top" 266 712 basechar 0
 LayerCount: 2
 Fore
-Refer: 127 1041 N 1 0 0 0.95 0 0 2
+Refer: 203 1041 N 1 0 0 0.95 0 0 2
 EndChar

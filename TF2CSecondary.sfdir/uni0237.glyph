@@ -1,11 +1,8 @@
 StartChar: uni0237
-Encoding: 567 567 377
+Encoding: 567 567 656
 Width: 370
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottomatt" 146 -232 basechar 0
-AnchorPoint: "bottom" 118 -282 basechar 0
-AnchorPoint: "bottomattside" 93 -229 basechar 0
-AnchorPoint: "top" 269 528 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -32,5 +29,4 @@ SplineSet
  221 -13 221 -13 222.5 13.5 c 132,-1,24
  224 40 224 40 224 62 c 6,0,-1
 EndSplineSet
-Kerns2: 377 -63 "kern" 38 32 "kern" 42 -84 "kern" 47 -6 "kern" 54 -11 "kern" 66 32 "kern" 70 24 "kern" 72 24 "kern" 74 -63 "kern" 75 48 "kern" 79 -8 "kern" 80 24 "kern" 83 16 "kern"
 EndChar

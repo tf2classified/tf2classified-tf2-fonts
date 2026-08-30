@@ -1,13 +1,9 @@
 StartChar: Obreve
-Encoding: 334 334 417
-Width: 870
+Encoding: 334 334 436
+Width: 850
 Flags: W
-AnchorPoint: "bottom" 420 -31 basechar 0
-AnchorPoint: "bottomattside" 549 10 basechar 0
-AnchorPoint: "bottomatt" 443 7 basechar 0
-AnchorPoint: "top" 425 870 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 774 N 1 0 0 1 568 102 2
-Refer: 47 79 N 1 0 0 1 0 0 3
+Refer: 340 774 N 1 0 0 1 554.688 99.6094 2
+Refer: 50 79 N 1 0 0 1 0 0 3
 EndChar

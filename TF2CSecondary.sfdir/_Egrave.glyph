@@ -1,14 +1,10 @@
 StartChar: Egrave
-Encoding: 200 200 114
-Width: 472
+Encoding: 200 200 117
+Width: 481
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 200 -31 basechar 0
-AnchorPoint: "bottomattside" 409 4 basechar 0
-AnchorPoint: "bottomatt" 236 7 basechar 0
-AnchorPoint: "top" 218 864 basechar 0
 LayerCount: 2
 Fore
-Refer: 378 768 S 1 0 0 1 259 96 2
-Refer: 37 69 N 1 0 0 1 0 0 2
+Refer: 40 69 N 1 0 0 1 20 0 2
+Refer: 67 96 N 1 0 0 1 142 94 2
 EndChar

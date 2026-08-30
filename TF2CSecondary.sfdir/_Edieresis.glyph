@@ -1,15 +1,10 @@
 StartChar: Edieresis
-Encoding: 203 203 117
-AltUni2: 000401.ffffffff.0
-Width: 447
+Encoding: 203 203 120
+Width: 481
 GlyphClass: 2
 Flags: W
-AnchorPoint: "top" 236 736 basechar 0
-AnchorPoint: "bottom" 200 -31 basechar 0
-AnchorPoint: "bottomattside" 409 4 basechar 0
-AnchorPoint: "bottomatt" 236 7 basechar 0
 LayerCount: 2
 Fore
-Refer: 37 69 N 1 0 0 1 0 0 2
-Refer: 99 168 N 1 0 0 1 148 30 2
+Refer: 40 69 N 1 0 0 1 21 0 2
+Refer: 102 168 N 1 0 0 1 145 29 2
 EndChar

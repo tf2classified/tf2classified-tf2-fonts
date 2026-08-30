@@ -1,9 +1,9 @@
 StartChar: ohungarumlaut
-Encoding: 337 337 334
+Encoding: 337 337 326
 Width: 281
 Flags: W
 LayerCount: 2
 Fore
-Refer: 332 733 N 1 0 0 1 58 -139 2
-Refer: 79 111 N 1 0 0 1 0 0 2
+Refer: 239 733 N 1 0 0 1 58 -139 2
+Refer: 81 111 N 1 0 0 1 0 0 2
 EndChar

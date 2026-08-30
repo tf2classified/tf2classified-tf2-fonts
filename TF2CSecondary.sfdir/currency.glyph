@@ -1,6 +1,7 @@
 StartChar: currency
-Encoding: 164 164 317
+Encoding: 164 164 282
 Width: 366
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore

@@ -1,8 +1,16 @@
 StartChar: comma
-Encoding: 44 44 12
+Encoding: 44 44 15
 Width: 399
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 10
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

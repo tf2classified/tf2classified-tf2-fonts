@@ -1,8 +1,27 @@
 StartChar: bar
-Encoding: 124 124 92
+Encoding: 124 124 94
 Width: 144
 GlyphClass: 2
 Flags: W
+TtInstrs:
+PUSHW_1
+ 20
+CALL
+PUSHW_3
+ 22
+ 7
+ 23
+CALL
+SVTCA[y-axis]
+PUSHW_1
+ 2
+MDAP[rnd]
+PUSHW_1
+ 14
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -26,9 +45,10 @@ SplineSet
  78 565 l 1,17,-1
  82 555 l 1,18,-1
  89 478 l 1,19,-1
- 97 451 l 1,20,-1
- 101 414 l 1,21,-1
- 101 75 l 1,22,-1
+ 92 468 l 1,20,-1
+ 97 451 l 1,21,-1
+ 101 414 l 1,22,-1
+ 101 75 l 1,23,-1
  97 60 l 1,0,-1
 EndSplineSet
 EndChar

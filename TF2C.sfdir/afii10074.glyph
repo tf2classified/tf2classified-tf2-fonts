@@ -1,0 +1,43 @@
+StartChar: afii10074
+Encoding: 1080 1080 242
+Width: 536
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_1
+ 30
+CALL
+PUSHW_3
+ 13
+ 8
+ 33
+CALL
+SVTCA[y-axis]
+PUSHW_1
+ 0
+MDAP[rnd]
+PUSHW_1
+ 6
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+377 3 m 1,0,1
+ 391 20 391 20 404 43 c 1,2,3
+ 405 123 405 123 393 484 c 1,4,-1
+ 85 5 l 1,5,-1
+ 83 1 l 1,6,-1
+ 16 1 l 1,7,-1
+ 15 696 l 1,8,-1
+ 124 700 l 1,9,10
+ 122 702 122 702 93 647 c 0,11,12
+ 88 630 88 630 85 102 c 1,13,-1
+ 450 693 l 1,14,-1
+ 478 2 l 1,15,-1
+ 377 3 l 1,0,1
+EndSplineSet
+Kerns2: 60 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

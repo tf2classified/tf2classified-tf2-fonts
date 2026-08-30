@@ -1,6 +1,7 @@
 StartChar: tilde
-Encoding: 732 732 194
+Encoding: 732 732 197
 Width: 251
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2

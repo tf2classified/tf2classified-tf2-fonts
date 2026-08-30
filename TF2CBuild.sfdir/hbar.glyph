@@ -1,0 +1,15 @@
+StartChar: hbar
+Encoding: 295 295 534
+Width: 1838
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1716 1126 m 1
+ 1712 947 l 1
+ 0 906 l 1
+ 2 1098 l 1
+ 1716 1126 l 1
+EndSplineSet
+Refer: 43 72 N 1 0 0 1 141 0 2
+EndChar

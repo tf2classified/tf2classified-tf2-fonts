@@ -1,13 +1,9 @@
 StartChar: aringacute
-Encoding: 507 507 673
-Width: 652
+Encoding: 507 507 596
+Width: 584
 Flags: W
-AnchorPoint: "bottomattside" 526 9 basechar 0
-AnchorPoint: "bottom" 312 -31 basechar 0
-AnchorPoint: "bottomatt" 331 17 basechar 0
-AnchorPoint: "top" 287 796 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 769 N 1 0 0 1 376 28 2
-Refer: 143 229 N 1 0 0 1 0 0 3
+Refer: 336 769 N 1 0 0 1 367.188 27.3438 2
+Refer: 146 229 N 1 0 0 1 0 0 3
 EndChar

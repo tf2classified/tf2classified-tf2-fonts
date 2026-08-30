@@ -1,13 +1,10 @@
 StartChar: Omacron
-Encoding: 332 332 343
+Encoding: 332 332 434
 Width: 870
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottom" 420 -31 basechar 0
-AnchorPoint: "bottomattside" 549 10 basechar 0
-AnchorPoint: "bottomatt" 443 7 basechar 0
-AnchorPoint: "top" 368 851 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 772 S 1 0 0 1 498 49 2
-Refer: 47 79 N 1 0 0 1 0 0 2
+Refer: 339 772 S 1 0 0 1 486.328 47.8516 2
+Refer: 50 79 N 1 0 0 1 0 0 2
 EndChar

@@ -1,8 +1,16 @@
 StartChar: breve
-Encoding: 728 728 93
+Encoding: 728 728 196
 Width: 487
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 11
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

@@ -1,12 +1,7 @@
 StartChar: uni01B7
-Encoding: 439 439 311
-AltUni2: 000292.ffffffff.0
+Encoding: 439 439 718
 Width: 1187
 Flags: W
-AnchorPoint: "markbottomatt" 560 -369 basemark 0
-AnchorPoint: "markbottomattside" 819 -212 basemark 0
-AnchorPoint: "markbottom" 560 -451 basemark 0
-AnchorPoint: "top" 553 1501 basechar 0
 LayerCount: 2
 Fore
 SplineSet

@@ -1,13 +1,9 @@
 StartChar: Utilde
-Encoding: 360 360 423
-Width: 746
+Encoding: 360 360 454
+Width: 729
 Flags: W
-AnchorPoint: "bottom" 348 -36 basechar 0
-AnchorPoint: "bottomattside" 481 25 basechar 0
-AnchorPoint: "bottomatt" 382 13 basechar 0
-AnchorPoint: "top" 333 854 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 771 N 1 0 0 1 457 79 2
-Refer: 53 85 N 1 0 0 1 0 0 3
+Refer: 338 771 N 1 0 0 1 446.289 77.1484 2
+Refer: 56 85 N 1 0 0 1 0 0 3
 EndChar

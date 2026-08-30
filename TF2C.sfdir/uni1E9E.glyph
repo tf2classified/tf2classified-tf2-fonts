@@ -1,9 +1,8 @@
 StartChar: uni1E9E
-Encoding: 7838 7838 186
-AltUni2: 0000df.ffffffff.0
+Encoding: 7838 7838 456
 Width: 506
+VWidth: 1024
 Flags: W
-AnchorPoint: "top" 241 707 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -44,5 +43,4 @@ SplineSet
  273 3 273 3 174 1 c 1,49,-1
  172 77 l 25,0,-1
 EndSplineSet
-Substitution2: "mark-downsizer-1" uni1E9E.mark
 EndChar

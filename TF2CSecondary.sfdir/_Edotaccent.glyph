@@ -1,13 +1,9 @@
 StartChar: Edotaccent
-Encoding: 278 278 396
-Width: 447
+Encoding: 278 278 317
+Width: 437
 Flags: W
-AnchorPoint: "bottom" 200 -31 basechar 0
-AnchorPoint: "bottomattside" 409 4 basechar 0
-AnchorPoint: "bottomatt" 236 7 basechar 0
-AnchorPoint: "top" 236 848 basechar 0
 LayerCount: 2
 Fore
-Refer: 384 775 N 1 0 0 1 280 56 2
-Refer: 37 69 N 1 0 0 1 0 0 3
+Refer: 341 775 N 1 0 0 1 273.438 54.6875 2
+Refer: 40 69 N 1 0 0 1 0 0 3
 EndChar

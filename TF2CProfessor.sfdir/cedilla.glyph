@@ -1,8 +1,29 @@
 StartChar: cedilla
-Encoding: 184 184 105
+Encoding: 184 184 107
 Width: 161
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 0
+MDAP[rnd]
+PUSHW_1
+ 12
+MDAP[rnd]
+PUSHW_1
+ 14
+MDAP[rnd]
+PUSHW_3
+ 1
+ 12
+ 0
+SRP1
+SRP2
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

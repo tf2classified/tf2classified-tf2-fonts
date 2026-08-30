@@ -1,14 +1,10 @@
 StartChar: Udieresis
-Encoding: 220 220 245
-AltUni2: 0000fc.ffffffff.0
+Encoding: 220 220 135
 Width: 1528
+GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 768 -82 basechar 0
-AnchorPoint: "bottomatt" 717 0 basechar 0
-AnchorPoint: "bottomattside" 744 16 basechar 0
-AnchorPoint: "top" 791 1716 basechar 0
 LayerCount: 2
 Fore
-Refer: 167 776 N 1 0 0 1 1012 79 2
-Refer: 53 85 N 1 0 0 1 0 0 2
+Refer: 56 85 N 1 0 0 1 0 0 3
+Refer: 100 168 N 1 0 0 1 542 79 2
 EndChar

@@ -1,9 +1,9 @@
 StartChar: uni04F1
-Encoding: 1265 1265 345
+Encoding: 1265 1265 467
 Width: 278
 Flags: W
 LayerCount: 2
 Fore
-Refer: 98 168 S 1 0 0 1 26 49 2
-Refer: 251 1091 N 1 0 0 1 0 0 2
+Refer: 100 168 S 1 0 0 1 26 49 2
+Refer: 500 1091 N 1 0 0 1 0 0 2
 EndChar

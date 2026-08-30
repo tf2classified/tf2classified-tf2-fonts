@@ -1,0 +1,11 @@
+StartChar: udieresis
+Encoding: 252 252 167
+Width: 1530
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 88 117 N 1 0 0 1 0 0 3
+Refer: 100 168 N 1 0 0 1 522 76 2
+Kerns2: 93 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 92 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 -72 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -42 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -54 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -42 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -114 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -54 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -48 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -108 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -78 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -96 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

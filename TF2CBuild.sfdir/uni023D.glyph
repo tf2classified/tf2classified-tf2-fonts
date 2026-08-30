@@ -1,20 +1,15 @@
 StartChar: uni023D
-Encoding: 573 573 348
-AltUni2: 00019a.ffffffff.0
+Encoding: 573 573 563
 Width: 1125
 Flags: W
-AnchorPoint: "top" 320 1536 basechar 0
-AnchorPoint: "bottom" 573 -10 basechar 0
-AnchorPoint: "bottomatt" 553 20 basechar 0
-AnchorPoint: "bottomattside" 874 53 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-647 780 m 1,0,-1
- 643 573 l 1,1,-1
- -2 573 l 1,2,-1
- 0 793 l 1,3,-1
- 647 780 l 1,0,-1
+647 780 m 1
+ 643 573 l 1
+ -2 573 l 1
+ 0 793 l 1
+ 647 780 l 1
 EndSplineSet
-Refer: 44 76 S 1 0 0 1 102 0 2
+Refer: 47 76 S 1 0 0 1 102 0 2
 EndChar

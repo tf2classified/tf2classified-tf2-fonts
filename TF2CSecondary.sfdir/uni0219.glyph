@@ -1,13 +1,10 @@
 StartChar: uni0219
-Encoding: 537 537 264
+Encoding: 537 537 626
 Width: 445
+VWidth: 1024
 Flags: W
-AnchorPoint: "top" 210 538 basechar 0
-AnchorPoint: "bottom" 211 -30 basechar 0
-AnchorPoint: "bottomattside" 263 0 basechar 0
-AnchorPoint: "bottomatt" 226 -6 basechar 0
 LayerCount: 2
 Fore
-Refer: 83 115 N 1 0 0 1 0 0 2
-Refer: 12 44 S 1 0 0 1 163 -156 2
+Refer: 86 115 N 1 0 0 1 0 0 2
+Refer: 15 44 S 1 0 0 1 159.18 -152.344 2
 EndChar

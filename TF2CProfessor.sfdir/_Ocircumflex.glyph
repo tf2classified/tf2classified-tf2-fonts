@@ -1,10 +1,10 @@
 StartChar: Ocircumflex
-Encoding: 212 212 128
-Width: 350
+Encoding: 212 212 130
+Width: 272
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 47 79 N 1 0 0 1 0 0 2
-Refer: 194 710 N 1 0 0 1 42 90 2
+Refer: 49 79 N 1 0 0 1 0 0 2
+Refer: 196 710 N 1 0 0 1 42 90 2
 EndChar

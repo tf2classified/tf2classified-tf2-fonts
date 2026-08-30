@@ -1,0 +1,10 @@
+StartChar: ccaron
+Encoding: 269 269 483
+Width: 532
+VWidth: 1024
+Flags: W
+LayerCount: 2
+Fore
+Refer: 286 -1 S 1 0 0 1 0 0 2
+Refer: 197 711 N 1 0 0 1 190.43 250.977 2
+EndChar

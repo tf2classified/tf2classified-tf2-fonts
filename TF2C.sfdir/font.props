@@ -2,76 +2,64 @@ SplineFontDB: 3.2
 FontName: TF2C
 FullName: TF2C
 FamilyName: TF2C
-Weight: Regular
-Copyright: 
-Version: 1.0
+Weight: Book
+Copyright: TF2 fonts are copyright (c) Andrea Wicklund 2007.\n\nModified with extended character support by EMINOMA.
+Version: 1.0 08/29/2026
 ItalicAngle: 0
-UnderlinePosition: -102.4
-UnderlineWidth: 51.2
-Ascent: 768
-Descent: 256
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 750
+Descent: 250
 InvalidEm: 0
-sfntRevision: 0x00010000
+sfntRevision: 0x000206a8
 LayerCount: 2
-Layer: 0 1 "Arri+AOgA-re" 1
-Layer: 1 1 "Avant" 0
-XUID: [1021 514 -2062894156 31677]
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 379 -917273317 28782]
 StyleMap: 0x0040
 FSType: 4
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1262973209
-ModificationTime: 1649112462
+ModificationTime: 1788054299
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
 Panose: 0 0 0 0 0 0 0 0 0 0
-OS2TypoAscent: 768
+OS2TypoAscent: 750
 OS2TypoAOffset: 0
-OS2TypoDescent: -256
+OS2TypoDescent: -250
 OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 757
+OS2WinAscent: 739
 OS2WinAOffset: 0
-OS2WinDescent: 106
+OS2WinDescent: 104
 OS2WinDOffset: 0
-HheadAscent: 768
+HheadAscent: 750
 HheadAOffset: 0
-HheadDescent: -256
+HheadDescent: -250
 HheadDOffset: 0
-OS2SubXSize: 717
-OS2SubYSize: 666
+OS2SubXSize: 700
+OS2SubYSize: 650
 OS2SubXOff: 0
-OS2SubYOff: 143
-OS2SupXSize: 717
-OS2SupYSize: 666
+OS2SubYOff: 140
+OS2SupXSize: 700
+OS2SupYSize: 650
 OS2SupXOff: 0
-OS2SupYOff: 488
-OS2StrikeYSize: 51
-OS2StrikeYPos: 256
-OS2CapHeight: 712
-OS2XHeight: 705
+OS2SupYOff: 477
+OS2StrikeYSize: 50
+OS2StrikeYPos: 250
+OS2CapHeight: 695
+OS2XHeight: 688
 OS2Vendor: 'pyrs'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80000027.0000004a.00000000.00000000
-Lookup: 6 0 0 "mark-chain" { "mark-chain-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'KAZ ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "turkish" { "turkish-1"  } ['locl' ('latn' <'TRK ' > 'latn' <'AZE ' > 'latn' <'KAZ ' > ) ]
-Lookup: 1 0 0 "mark-downsizer" { "mark-downsizer-1" ("mark") } []
-Lookup: 260 0 0 "mark" { "mark-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'KAZ ' 'TRK ' 'dflt' > ) ]
-Lookup: 258 0 0 "kern" { "kern" [150,15,0] } ['kern' ('latn' <'dflt' > ) ]
-MarkAttachClasses: 2
-"mark-downsizers" 93 gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: coverage "mark-chain-1" 0 0 0 1
- 1 0 1
-  Coverage: 349 A B C D E F G H I i J K L M N O P Q R S T U V W X Y Z AE Eth Oslash Thorn uni1E9E OE Deltagreek Theta Lambda Xi Sigma Psi Omegagreek uni0404 afii10018 afii10020 afii10021 afii10024 afii10025 Iicyrillic afii10029 afii10033 Ucyrillic afii10038 afii10040 afii10041 afii10042 afii10043 afii10044 afii10045 afii10046 afii10047 afii10048 afii10049 uni0490
-  FCoverage: 93 gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C
- 1
-  SeqLookup: 0 "mark-downsizer"
-EndFPST
 TtTable: prep
 PUSHW_1
  50
@@ -2208,16 +2196,15 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033
+LangName: 1033 "" "" "Regular"
 GaspTable: 3 8 2 16 2 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -96
+DisplaySize: -48
 AntiAlias: 1
-FitToEm: 1
-WinInfo: 880 16 8
+FitToEm: 0
+WinInfo: 65094 38 14
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "bottomattside"""  "bottom" "mark-1" "top" "mark-1"
 EndSplineFont

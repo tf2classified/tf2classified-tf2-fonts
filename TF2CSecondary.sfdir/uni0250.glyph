@@ -1,9 +1,9 @@
 StartChar: uni0250
-Encoding: 592 592 635
-AltUni2: 000252.ffffffff.0
+Encoding: 592 592 681
 Width: 652
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 65 97 N -1 0 0 -1 622 487 2
+Refer: 68 97 N -1 0 0 -1 607.422 475.586 2
 EndChar

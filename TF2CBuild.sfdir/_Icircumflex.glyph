@@ -1,14 +1,10 @@
 StartChar: Icircumflex
-Encoding: 206 206 232
-AltUni2: 0000ee.ffffffff.0
+Encoding: 206 206 121
 Width: 585
+GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 256 -61 basechar 0
-AnchorPoint: "bottomatt" 246 10 basechar 0
-AnchorPoint: "bottomattside" 102 31 basechar 0
-AnchorPoint: "top" 332 1745 basechar 0
 LayerCount: 2
 Fore
-Refer: 203 770 N 1 0 0 1 517 191 2
-Refer: 41 73 N 1 0 0 1 0 0 2
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 194 710 N 1 0 0 1 145 191 2
 EndChar

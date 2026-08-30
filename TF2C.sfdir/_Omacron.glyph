@@ -1,10 +1,10 @@
 StartChar: Omacron
-Encoding: 332 332 173
-AltUni2: 00014d.ffffffff.0
+Encoding: 332 332 536
 Width: 654
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 240 -1 S 1 0 0 1 0 0 2
-Refer: 174 175 N 1 0 0 1 199 73 2
+Refer: 298 -1 S 1 0 0 1 0 0 2
+Refer: 348 175 N 1 0 0 1 194.336 71.2891 2
 EndChar

@@ -1,8 +1,9 @@
 StartChar: uni0E33
-Encoding: 3635 3635 447
+Encoding: 3635 3635 457
 Width: 1242
+Flags: W
 LayerCount: 2
 Fore
-Refer: 376 3634 N 1 0 0 1 0 0 2
-Refer: 443 3661 N 1 0 0 1 0 0 2
+Refer: 456 3634 N 1 0 0 1 0 0 2
+Refer: 479 3661 N 1 0 0 1 0 0 2
 EndChar

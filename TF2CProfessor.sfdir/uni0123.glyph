@@ -1,9 +1,9 @@
 StartChar: uni0123
-Encoding: 291 291 429
+Encoding: 291 291 286
 Width: 262
+Flags: W
 LayerCount: 2
 Fore
-Refer: 295 806 N 1 0 0 1 173.75 -14.75 2
-Refer: 71 103 N 1 0 0 1 0 0 3
-Decomposition: "g+AyYA"
+Refer: 252 806 N 1 0 0 1 173.75 -14.75 2
+Refer: 73 103 N 1 0 0 1 0 0 3
 EndChar

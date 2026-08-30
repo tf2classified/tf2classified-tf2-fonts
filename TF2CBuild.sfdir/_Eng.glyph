@@ -1,12 +1,7 @@
 StartChar: Eng
-Encoding: 330 330 290
-AltUni2: 00014b.ffffffff.0
+Encoding: 330 330 646
 Width: 1345
 Flags: W
-AnchorPoint: "top" 643 1448 basechar 0
-AnchorPoint: "bottom" 696 -532 basechar 0
-AnchorPoint: "bottomatt" 703 -423 basechar 0
-AnchorPoint: "bottomattside" 990 -335 basechar 0
 LayerCount: 2
 Fore
 SplineSet

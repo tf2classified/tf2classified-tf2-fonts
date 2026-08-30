@@ -1,13 +1,9 @@
 StartChar: Cdotaccent
-Encoding: 266 266 255
-AltUni2: 00010b.ffffffff.0
+Encoding: 266 266 509
 Width: 1351
-AnchorPoint: "bottomatt" 682 0 basechar 0
-AnchorPoint: "bottom" 819 -82 basechar 0
-AnchorPoint: "bottomattside" 1088 88 basechar 0
-AnchorPoint: "top" 844 1870 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 206 775 N 1 0 0 1 975 284 2
-Refer: 35 67 N 1 0 0 1 0 0 2
+Refer: 298 775 N 1 0 0 1 975 284 2
+Refer: 38 67 N 1 0 0 1 0 0 2
 EndChar

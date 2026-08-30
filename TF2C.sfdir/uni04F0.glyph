@@ -1,10 +1,10 @@
 StartChar: uni04F0
-Encoding: 1264 1264 221
-AltUni2: 0004f1.ffffffff.0
+Encoding: 1264 1264 457
 Width: 588
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 274 -1 N 1 0 0 1 0 0 2
-Refer: 72 168 S 1 0 0 1 198 215 2
+Refer: 332 -1 N 1 0 0 1 0 0 2
+Refer: 101 168 S 1 0 0 1 193.359 209.961 2
 EndChar

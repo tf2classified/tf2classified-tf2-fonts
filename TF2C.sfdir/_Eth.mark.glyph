@@ -1,10 +1,9 @@
 StartChar: Eth.mark
-Encoding: 65563 -1 253
+Encoding: 65566 -1 311
 Width: 585
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottom" 271 -10 basechar 0
-AnchorPoint: "top" 250 708 basechar 0
 LayerCount: 2
 Fore
-Refer: 95 208 N 1 0 0 0.95 0 0 2
+Refer: 125 208 N 1 0 0 0.95 0 0 2
 EndChar

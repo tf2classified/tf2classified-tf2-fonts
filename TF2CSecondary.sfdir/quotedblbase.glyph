@@ -1,9 +1,10 @@
 StartChar: quotedblbase
-Encoding: 8222 8222 248
+Encoding: 8222 8222 271
 Width: 229
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 246 8220 S -1 0 0 -1 177 628 2
+Refer: 269 8220 S -1 0 0 -1 172.852 613.281 2
 EndChar

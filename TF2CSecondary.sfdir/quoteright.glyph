@@ -1,11 +1,11 @@
 StartChar: quoteright
-Encoding: 8217 8217 244
-AltUni2: 0002bc.ffffffff.0
+Encoding: 8217 8217 267
 Width: 137
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 7 39 S 1 0 0 1 0 0 2
-Kerns2: 68 -56 "kern" 83 -32 "kern" 86 -24 "kern"
+Refer: 10 39 S 1 0 0 1 0 0 2
+Kerns2: 89 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 -31 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 -55 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar

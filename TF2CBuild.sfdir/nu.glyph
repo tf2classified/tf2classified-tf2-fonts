@@ -1,0 +1,20 @@
+StartChar: nu
+Encoding: 957 957 375
+Width: 1345
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+365 868 m 1,0,-1
+ 385 0 l 1,1,-1
+ 0 0 l 1,2,-1
+ 0 1434 l 1,3,-1
+ 291 1434 l 1,4,-1
+ 930 522 l 1,5,-1
+ 887 1419 l 1,6,-1
+ 1217 1432 l 1,7,-1
+ 1239 39 l 1,8,-1
+ 969 18 l 1,9,-1
+ 365 868 l 1,0,-1
+EndSplineSet
+EndChar

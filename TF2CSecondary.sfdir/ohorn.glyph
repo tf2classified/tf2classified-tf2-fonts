@@ -1,13 +1,10 @@
 StartChar: ohorn
-Encoding: 417 417 701
+Encoding: 417 417 506
 Width: 622
+VWidth: 1024
 Flags: W
-AnchorPoint: "top" 276 512 basechar 0
-AnchorPoint: "bottom" 292 -36 basechar 0
-AnchorPoint: "bottomattside" 390 4 basechar 0
-AnchorPoint: "bottomatt" 317 -3 basechar 0
 LayerCount: 2
 Fore
-Refer: 700 795 N 1 0 0 1 617 -269 2
-Refer: 79 111 N 1 0 0 1 0 0 2
+Refer: 350 795 N 1 0 0 1 602.539 -262.695 2
+Refer: 82 111 N 1 0 0 1 0 0 2
 EndChar

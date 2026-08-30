@@ -1,8 +1,9 @@
 StartChar: Tcaron
-Encoding: 356 356 401
+Encoding: 356 356 337
 Width: 453
+Flags: W
 LayerCount: 2
 Fore
-Refer: 361 780 N 1 0 0 1 285 -83 2
-Refer: 52 84 N 1 0 0 1 0 0 3
+Refer: 250 780 N 1 0 0 1 285 -83 2
+Refer: 54 84 N 1 0 0 1 0 0 3
 EndChar

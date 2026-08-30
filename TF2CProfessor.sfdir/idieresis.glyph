@@ -1,11 +1,10 @@
 StartChar: idieresis
-Encoding: 239 239 155
-AltUni2: 000457.ffffffff.0 0003ca.ffffffff.0
+Encoding: 239 239 157
 Width: 112
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 73 105 S 1 0 0 1 0 0 2
-Refer: 98 168 N 0.722229 0 0 0.872253 -18 66 2
+Refer: 75 105 N 1 0 0 1 0 0 3
+Refer: 100 168 N 0.722229 0 0 0.872253 -18 66 2
 EndChar

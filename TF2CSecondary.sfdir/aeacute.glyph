@@ -1,10 +1,9 @@
 StartChar: aeacute
-Encoding: 509 509 540
-Width: 1059
+Encoding: 509 509 598
+Width: 1017
 Flags: W
-AnchorPoint: "top" 543 657 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 769 N 1 0 0 1 632 -111 2
-Refer: 144 230 N 1 0 0 1 0 0 3
+Refer: 336 769 N 1 0 0 1 617.188 -108.398 2
+Refer: 147 230 N 1 0 0 1 0 0 3
 EndChar

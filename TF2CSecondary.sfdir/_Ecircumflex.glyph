@@ -1,14 +1,10 @@
 StartChar: Ecircumflex
-Encoding: 202 202 116
-Width: 447
+Encoding: 202 202 119
+Width: 482
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 200 -31 basechar 0
-AnchorPoint: "bottomattside" 409 4 basechar 0
-AnchorPoint: "bottomatt" 236 7 basechar 0
-AnchorPoint: "top" 205 927 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 770 S 1 0 0 1 311 127 2
-Refer: 37 69 N 1 0 0 1 0 0 2
+Refer: 40 69 N 1 0 0 1 20 0 2
+Refer: 194 710 N 1 0 0 1 121 124 2
 EndChar

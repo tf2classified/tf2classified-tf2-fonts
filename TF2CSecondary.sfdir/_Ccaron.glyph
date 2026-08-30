@@ -1,13 +1,10 @@
 StartChar: Ccaron
-Encoding: 268 268 335
+Encoding: 268 268 307
 Width: 633
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottom" 353 -20 basechar 0
-AnchorPoint: "bottomattside" 545 12 basechar 0
-AnchorPoint: "bottomatt" 370 32 basechar 0
-AnchorPoint: "top" 315 908 basechar 0
 LayerCount: 2
 Fore
-Refer: 387 780 S 1 0 0 1 439 140 2
-Refer: 35 67 N 1 0 0 1 0 0 2
+Refer: 345 780 S 1 0 0 1 428.711 136.719 2
+Refer: 38 67 N 1 0 0 1 0 0 2
 EndChar

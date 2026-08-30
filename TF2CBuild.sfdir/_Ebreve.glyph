@@ -1,13 +1,9 @@
 StartChar: Ebreve
-Encoding: 276 276 257
-AltUni2: 000115.ffffffff.0
+Encoding: 276 276 519
 Width: 1271
-AnchorPoint: "bottomattside" 903 20 basechar 0
-AnchorPoint: "bottom" 594 -20 basechar 0
-AnchorPoint: "bottomatt" 522 20 basechar 0
-AnchorPoint: "top" 659 1745 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 205 774 N 1 0 0 1 903 159 2
-Refer: 37 69 N 1 0 0 1 0 0 2
+Refer: 297 774 N 1 0 0 1 903 159 2
+Refer: 40 69 N 1 0 0 1 0 0 2
 EndChar

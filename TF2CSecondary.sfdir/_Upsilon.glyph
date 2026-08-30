@@ -1,0 +1,20 @@
+StartChar: Upsilon
+Encoding: 933 933 765
+Width: 634
+VWidth: 1024
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+28 670 m 1,0,-1
+ 76 705 l 1,1,-1
+ 286 450 l 1,2,-1
+ 500 718 l 1,3,-1
+ 566 665 l 1,4,-1
+ 335 395 l 1,5,-1
+ 362 3 l 1,6,-1
+ 273 0 l 1,7,-1
+ 261 397 l 1,8,-1
+ 28 670 l 1,0,-1
+EndSplineSet
+EndChar

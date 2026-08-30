@@ -1,9 +1,10 @@
 StartChar: uni0298
-Encoding: 664 664 623
+Encoding: 664 664 725
 Width: 870
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 327 183 N 1 0 0 1 350 -2 2
-Refer: 47 79 N 1 0 0 1 0 0 2
+Refer: 295 183 N 1 0 0 1 341.797 -1.95312 2
+Refer: 50 79 N 1 0 0 1 0 0 2
 EndChar

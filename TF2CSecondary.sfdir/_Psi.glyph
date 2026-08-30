@@ -1,6 +1,7 @@
 StartChar: Psi
-Encoding: 936 936 294
+Encoding: 936 936 768
 Width: 781
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore

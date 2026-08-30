@@ -1,10 +1,7 @@
 StartChar: uni01A7
-Encoding: 423 423 301
-AltUni2: 0001a8.ffffffff.0
+Encoding: 423 423 712
 Width: 1224
 Flags: W
-AnchorPoint: "bottom" 599 -61 basechar 0
-AnchorPoint: "top" 519 1481 basechar 0
 LayerCount: 2
 Fore
 SplineSet

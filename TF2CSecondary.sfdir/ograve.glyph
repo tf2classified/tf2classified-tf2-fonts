@@ -1,14 +1,10 @@
 StartChar: ograve
-Encoding: 242 242 156
-Width: 622
+Encoding: 242 242 159
+Width: 585
 GlyphClass: 2
 Flags: W
-AnchorPoint: "top" 276 512 basechar 0
-AnchorPoint: "bottom" 292 -36 basechar 0
-AnchorPoint: "bottomattside" 390 4 basechar 0
-AnchorPoint: "bottomatt" 317 -3 basechar 0
 LayerCount: 2
 Fore
-Refer: 79 111 N 1 0 0 1 0 0 2
-Refer: 64 96 N 1 0 0 1 125 -112 2
+Refer: 82 111 N 1 0 0 1 56 0 2
+Refer: 67 96 N 1 0 0 1 178 -109 2
 EndChar

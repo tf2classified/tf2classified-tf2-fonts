@@ -1,9 +1,9 @@
 StartChar: uni0163
-Encoding: 355 355 264
+Encoding: 355 355 336
 Width: 302
 Flags: W
 LayerCount: 2
 Fore
-Refer: 105 184 S 0.530864 0 0 0.784091 121.864 8.53409 2
-Refer: 84 116 N 1 0 0 1 0 0 2
+Refer: 107 184 S 0.530864 0 0 0.784091 121.864 8.53409 2
+Refer: 86 116 N 1 0 0 1 0 0 2
 EndChar

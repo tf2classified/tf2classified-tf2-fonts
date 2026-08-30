@@ -1,14 +1,10 @@
 StartChar: Ograve
-Encoding: 210 210 236
-AltUni2: 0000f2.ffffffff.0
+Encoding: 210 210 125
 Width: 1596
+GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 778 -51 basechar 0
-AnchorPoint: "bottomatt" 758 0 basechar 0
-AnchorPoint: "bottomattside" 792 27 basechar 0
-AnchorPoint: "top" 686 1769 basechar 0
 LayerCount: 2
 Fore
-Refer: 201 768 N 1 0 0 1 816 233 2
-Refer: 47 79 N 1 0 0 1 0 0 2
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 475 233 2
 EndChar

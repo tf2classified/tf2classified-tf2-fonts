@@ -1,29 +1,35 @@
 StartChar: x
-Encoding: 120 120 88
-AltUni2: 000445.ffffffff.0
-Width: 539
+Encoding: 120 120 91
+Width: 527
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottomatt" 269 20 basechar 0
-AnchorPoint: "bottomattside" 441 41 basechar 0
-AnchorPoint: "bottom" 246 -5 basechar 0
-AnchorPoint: "top" 225 517 basechar 0
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 2
+MDAP[rnd]
+PUSHW_1
+ 6
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-423 19 m 1,0,-1
- 239 213 l 1,1,-1
- 61 1 l 1,2,-1
- 0 50 l 1,3,-1
- 189 265 l 1,4,-1
- -6 467 l 1,5,-1
- 45 517 l 1,6,-1
- 234 319 l 1,7,-1
- 390 504 l 1,8,-1
- 441 459 l 1,9,-1
- 279 272 l 1,10,-1
- 474 76 l 1,11,-1
- 423 19 l 1,0,-1
+413 19 m 1,0,-1
+ 233 208 l 1,1,-1
+ 60 1 l 1,2,-1
+ 0 49 l 1,3,-1
+ 185 259 l 1,4,-1
+ -6 456 l 1,5,-1
+ 44 505 l 1,6,-1
+ 229 312 l 1,7,-1
+ 381 492 l 1,8,-1
+ 431 448 l 1,9,-1
+ 272 266 l 1,10,-1
+ 463 74 l 1,11,-1
+ 413 19 l 1,0,-1
 EndSplineSet
-Kerns2: 255 -32 "kern" 89 -72 "kern" 85 -48 "kern" 84 -72 "kern" 79 -48 "kern" 78 -40 "kern" 77 -16 "kern" 73 -32 "kern" 69 -72 "kern" 66 -24 "kern" 55 -138 "kern" 47 -138 "kern" 36 -24 "kern"
+Kerns2: 92 -70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -39 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -31 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -135 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 -135 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar

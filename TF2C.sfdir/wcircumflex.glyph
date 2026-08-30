@@ -1,0 +1,10 @@
+StartChar: wcircumflex
+Encoding: 373 373 569
+Width: 691
+VWidth: 1024
+Flags: W
+LayerCount: 2
+Fore
+Refer: 306 -1 S 1 0 0 1 0 0 2
+Refer: 363 770 N 1 0 0 1 412.109 19.5312 2
+EndChar

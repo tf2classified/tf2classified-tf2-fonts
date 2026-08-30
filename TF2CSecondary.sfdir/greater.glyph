@@ -1,17 +1,42 @@
 StartChar: greater
-Encoding: 62 62 30
-Width: 342
+Encoding: 62 62 33
+Width: 334
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 1
+MDAP[rnd]
+PUSHW_1
+ 5
+MDAP[rnd]
+PUSHW_3
+ 0
+ 1
+ 5
+SRP1
+SRP2
+IP
+PUSHW_3
+ 3
+ 1
+ 5
+SRP1
+SRP2
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-294 373 m 1,0,-1
- 69 185 l 1,1,-1
- 49 227 l 1,2,-1
- 231 369 l 1,3,-1
- -1 468 l 1,4,-1
- 29 534 l 1,5,-1
- 294 373 l 1,0,-1
+287 364 m 1,0,-1
+ 67 181 l 1,1,-1
+ 48 222 l 1,2,-1
+ 226 360 l 1,3,-1
+ -1 457 l 1,4,-1
+ 28 521 l 1,5,-1
+ 287 364 l 1,0,-1
 EndSplineSet
 EndChar

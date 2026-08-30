@@ -1,19 +1,16 @@
 StartChar: tbar
-Encoding: 359 359 436
+Encoding: 359 359 453
 Width: 358
+VWidth: 1024
 Flags: W
-AnchorPoint: "top" 133 681 basechar 0
-AnchorPoint: "bottom" 147 -28 basechar 0
-AnchorPoint: "bottomattside" 136 6 basechar 0
-AnchorPoint: "bottomatt" 169 5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-2 308 m 1,0,-1
- 295 309 l 1,1,-1
- 295 255 l 1,2,-1
- 4 252 l 5,3,-1
- 2 308 l 1,0,-1
+2 308 m 1
+ 295 309 l 1
+ 295 255 l 1
+ 4 252 l 5
+ 2 308 l 1
 EndSplineSet
-Refer: 84 116 N 1 0 0 1 0 0 2
+Refer: 87 116 N 1 0 0 1 0 0 2
 EndChar

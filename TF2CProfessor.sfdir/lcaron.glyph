@@ -1,9 +1,9 @@
 StartChar: lcaron
-Encoding: 318 318 414
+Encoding: 318 318 311
 Width: 272
 Flags: W
 LayerCount: 2
 Fore
-Refer: 7 39 S 0.5 0 0 0.5 96 14 2
-Refer: 76 108 N 1 0 0 1 0 0 2
+Refer: 9 39 S 0.5 0 0 0.5 96 14 2
+Refer: 78 108 N 1 0 0 1 0 0 2
 EndChar

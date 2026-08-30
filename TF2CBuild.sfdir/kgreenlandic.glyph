@@ -1,14 +1,9 @@
 StartChar: kgreenlandic
-Encoding: 312 312 287
+Encoding: 312 312 549
 Width: 1455
 Flags: W
-AnchorPoint: "top" 635 1475 basechar 0
-AnchorPoint: "bottom" 635 -41 basechar 0
-AnchorPoint: "bottomatt" 584 0 basechar 0
-AnchorPoint: "bottomattside" 819 88 basechar 0
 LayerCount: 2
 Fore
-Refer: 7 39 N 1 0 0 1 1131 0 2
-Refer: 43 75 N 1 0 0 1 0 0 2
-Decomposition: "k'"
+Refer: 10 39 N 1 0 0 1 1131 0 2
+Refer: 46 75 N 1 0 0 1 0 0 2
 EndChar

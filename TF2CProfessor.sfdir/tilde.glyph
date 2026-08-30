@@ -1,12 +1,32 @@
 StartChar: tilde
-Encoding: 732 732 195
+Encoding: 732 732 197
 Width: 242
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 2
+MDAP[rnd]
+PUSHW_1
+ 18
+MDAP[rnd]
+PUSHW_1
+ 20
+MDAP[rnd]
+PUSHW_1
+ 31
+MDAP[rnd]
+PUSHW_1
+ 33
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-181 541 m 1,0,-1
+176 536 m 1,0,-1
  161 521 l 1,1,-1
  153 519 l 1,2,-1
  146 521 l 1,3,-1
@@ -41,6 +61,7 @@ SplineSet
  177 623 l 1,32,-1
  180 616 l 1,33,-1
  184 557 l 1,34,-1
- 181 541 l 1,0,-1
+ 181 541 l 1,35,-1
+ 176 536 l 1,0,-1
 EndSplineSet
 EndChar

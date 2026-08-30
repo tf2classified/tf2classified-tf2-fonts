@@ -1,13 +1,9 @@
 StartChar: uhungarumlaut
-Encoding: 369 369 354
-Width: 568
+Encoding: 369 369 463
+Width: 555
 Flags: W
-AnchorPoint: "bottom" 256 -31 basechar 0
-AnchorPoint: "bottomattside" 465 15 basechar 0
-AnchorPoint: "bottomatt" 276 7 basechar 0
-AnchorPoint: "top" 266 646 basechar 0
 LayerCount: 2
 Fore
-Refer: 386 779 N 1 0 0 1 411 -129 2
-Refer: 85 117 N 1 0 0 1 0 0 3
+Refer: 344 779 N 1 0 0 1 401.367 -125.977 2
+Refer: 88 117 N 1 0 0 1 0 0 3
 EndChar

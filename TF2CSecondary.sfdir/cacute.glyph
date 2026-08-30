@@ -1,14 +1,10 @@
 StartChar: cacute
-Encoding: 263 263 173
-Width: 482
+Encoding: 263 263 176
+Width: 502
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 276 -31 basechar 0
-AnchorPoint: "bottomattside" 412 11 basechar 0
-AnchorPoint: "bottomatt" 262 24 basechar 0
-AnchorPoint: "top" 274 683 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 769 S 1 0 0 1 364 -85 2
-Refer: 67 99 N 1 0 0 1 0 0 2
+Refer: 106 180 N 1 0 0 1 218 -82 2
+Refer: 70 99 N 1 0 0 1 0 0 2
 EndChar

@@ -1,0 +1,15 @@
+StartChar: dcroat
+Encoding: 273 273 516
+Width: 1629
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+647 780 m 5
+ 643 573 l 5
+ -2 573 l 5
+ 0 793 l 5
+ 647 780 l 5
+EndSplineSet
+Refer: 39 68 N 1 0 0 1 141 -4 2
+EndChar

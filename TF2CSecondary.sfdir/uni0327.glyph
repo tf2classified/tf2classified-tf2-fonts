@@ -1,11 +1,9 @@
 StartChar: uni0327
-Encoding: 807 807 442
+Encoding: 807 807 326
 Width: 0
+VWidth: 1024
 Flags: W
-AnchorPoint: "mkmkbottomatt" -84 -135 basemark 0
-AnchorPoint: "mkmkbottomatt" -84 0 mark 0
-AnchorPoint: "bottomatt" -58 0 mark 0
 LayerCount: 2
 Fore
-Refer: 104 184 N 1 0 0 1 -136 -60 2
+Refer: 107 184 N 1 0 0 1 -132.812 -58.5938 2
 EndChar

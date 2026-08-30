@@ -1,10 +1,10 @@
 StartChar: Ebreve
-Encoding: 276 276 302
-AltUni2: 000115.ffffffff.0
+Encoding: 276 276 490
 Width: 509
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 230 -1 S 1 0 0 1 0 0 2
-Refer: 294 774 N 1 0 0 1 299 -2 2
+Refer: 288 -1 S 1 0 0 1 0 0 2
+Refer: 366 774 N 1 0 0 1 291.992 -1.95312 2
 EndChar

@@ -1,8 +1,30 @@
 StartChar: asciitilde
-Encoding: 126 126 67
+Encoding: 126 126 96
 Width: 1108
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_3
+ 14
+ 27
+ 3
+CALL
+PUSHW_3
+ 7
+ 34
+ 3
+CALL
+PUSHW_3
+ 41
+ 27
+ 14
+SRP1
+SRP2
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

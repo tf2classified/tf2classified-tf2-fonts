@@ -1,6 +1,7 @@
 StartChar: macron
-Encoding: 175 175 174
+Encoding: 175 175 348
 Width: 204
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore

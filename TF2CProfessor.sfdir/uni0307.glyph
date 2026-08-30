@@ -1,9 +1,8 @@
 StartChar: uni0307
-Encoding: 775 775 358
+Encoding: 775 775 246
 Width: 0
 Flags: W
-AnchorPoint: "top" -21 760 mark 0
 LayerCount: 2
 Fore
-Refer: 288 729 N 1 0 0 1 -57 271 2
+Refer: 236 729 N 1 0 0 1 -57 271 2
 EndChar

@@ -1,8 +1,147 @@
 StartChar: cedilla
-Encoding: 184 184 75
+Encoding: 184 184 105
 Width: 311
 GlyphClass: 2
 Flags: W
+TtInstrs:
+PUSHW_1
+ 36
+MDAP[rnd]
+PUSHW_1
+ 5
+MDAP[rnd]
+PUSHW_1
+ 36
+SRP0
+PUSHW_1
+ 12
+MDRP[rp0,grey]
+PUSHW_1
+ 12
+MDAP[rnd]
+PUSHW_1
+ 0
+MDRP[rp0,grey]
+PUSHW_1
+ 0
+MDAP[rnd]
+NPUSHW
+ 5
+ 218
+ 5
+ 234
+ 5
+ 2
+DELTAP1
+NPUSHW
+ 27
+ 9
+ 5
+ 25
+ 5
+ 41
+ 5
+ 57
+ 5
+ 73
+ 5
+ 89
+ 5
+ 105
+ 5
+ 121
+ 5
+ 137
+ 5
+ 153
+ 5
+ 169
+ 5
+ 185
+ 5
+ 201
+ 5
+ 13
+DELTAP1
+PUSHW_1
+ 5
+SRP0
+PUSHW_1
+ 30
+MDRP[rp0,min,rnd,grey]
+PUSHW_3
+ 18
+ 5
+ 30
+SRP1
+SRP2
+IP
+PUSHW_1
+ 5
+SRP0
+PUSHW_1
+ 20
+MDRP[rp0,grey]
+PUSHW_1
+ 20
+MDAP[rnd]
+PUSHW_1
+ 12
+SRP0
+PUSHW_1
+ 23
+MDRP[rp0,min,rnd,grey]
+NPUSHW
+ 27
+ 6
+ 23
+ 22
+ 23
+ 38
+ 23
+ 54
+ 23
+ 70
+ 23
+ 86
+ 23
+ 102
+ 23
+ 118
+ 23
+ 134
+ 23
+ 150
+ 23
+ 166
+ 23
+ 182
+ 23
+ 198
+ 23
+ 13
+DELTAP1
+NPUSHW
+ 5
+ 213
+ 23
+ 229
+ 23
+ 2
+DELTAP1
+PUSHW_1
+ 30
+SRP0
+PUSHW_1
+ 37
+MDRP[rp0,min,rnd,grey]
+SVTCA[y-axis]
+PUSHW_1
+ 17
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

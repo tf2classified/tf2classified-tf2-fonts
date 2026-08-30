@@ -1,0 +1,12 @@
+StartChar: afii10071
+Encoding: 1105 1105 263
+Width: 612
+VWidth: 1024
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 342 776 S 1 0 0 1 321.289 -196.289 2
+Refer: 72 101 N 1 0 0 1 0 0 2
+Kerns2: 263 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 93 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 92 -62 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 -55 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -62 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 73 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 62 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -172 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 73 17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 -84 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -43 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 45 -35 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 43 18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 17 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

@@ -1,14 +1,10 @@
 StartChar: aring
-Encoding: 229 229 143
-Width: 652
+Encoding: 229 229 146
+Width: 584
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottomatt" 331 17 basechar 0
-AnchorPoint: "top" 287 660 basechar 0
-AnchorPoint: "bottom" 312 -31 basechar 0
-AnchorPoint: "bottomattside" 526 9 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 778 N 1 0 0 1 350 -127 2
-Refer: 65 97 N 1 0 0 1 0 0 2
+Refer: 68 97 N 1 0 0 1 43 0 2
+Refer: 196 730 N 1 0 0 1 208 -180 2
 EndChar

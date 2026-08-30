@@ -1,14 +1,31 @@
 StartChar: igrave
-Encoding: 236 236 150
-Width: 244
+Encoding: 236 236 153
+Width: 219
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottomattside" 79 5 basechar 0
-AnchorPoint: "bottom" 97 -31 basechar 0
-AnchorPoint: "bottomatt" 123 13 basechar 0
-AnchorPoint: "top" 108 625 basechar 0
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 2
+MDAP[rnd]
+PUSHW_1
+ 5
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 378 768 N 1 0 0 1 148 -143 2
-Refer: 255 305 N 1 0 0 1 0 0 3
+SplineSet
+53 450 m 1,0,-1
+ 39 1 l 1,1,-1
+ 116 0 l 1,2,-1
+ 123 450 l 1,3,-1
+ 53 450 l 1,0,-1
+3 561 m 1,4,-1
+ 38 602 l 1,5,-1
+ 123 500 l 1,6,-1
+ 110 481 l 1,7,-1
+ 3 561 l 1,4,-1
+EndSplineSet
 EndChar

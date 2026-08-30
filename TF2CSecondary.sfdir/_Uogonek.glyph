@@ -1,13 +1,9 @@
 StartChar: Uogonek
-Encoding: 370 370 465
-Width: 746
+Encoding: 370 370 464
+Width: 729
 Flags: W
-AnchorPoint: "top" 333 712 basechar 0
-AnchorPoint: "bottom" 348 -36 basechar 0
-AnchorPoint: "bottomatt" 382 13 basechar 0
-AnchorPoint: "bottomattside" 483 -72 basechar 0
 LayerCount: 2
 Fore
-Refer: 443 808 N 1 0 0 1 532 20 2
-Refer: 53 85 N 1 0 0 1 0 0 3
+Refer: 327 808 N 1 0 0 1 519.531 19.5312 2
+Refer: 56 85 N 1 0 0 1 0 0 3
 EndChar

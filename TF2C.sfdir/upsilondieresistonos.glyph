@@ -1,9 +1,10 @@
 StartChar: upsilondieresistonos
-Encoding: 944 944 185
+Encoding: 944 944 417
 Width: 563
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 250 -1 S 1 0 0 1 0 0 2
-Refer: 176 901 N 1 0 0 1 157 215 2
+Refer: 308 -1 S 1 0 0 1 0 0 2
+Refer: 378 901 N 1 0 0 1 153.32 209.961 2
 EndChar

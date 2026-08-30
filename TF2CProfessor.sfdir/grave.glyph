@@ -1,8 +1,19 @@
 StartChar: grave
-Encoding: 96 96 64
+Encoding: 96 96 66
 Width: 176
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 12
+MDAP[rnd]
+PUSHW_1
+ 1
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -21,11 +32,12 @@ SplineSet
  41 663 l 1,12,-1
  47 660 l 1,13,-1
  54 653 l 1,14,-1
- 82 605 l 1,15,-1
- 86 592 l 1,16,-1
- 88 596 l 1,17,-1
- 93 580 l 1,18,-1
- 91 573 l 1,19,-1
+ 65 633 l 1,15,-1
+ 82 605 l 1,16,-1
+ 86 592 l 1,17,-1
+ 88 596 l 1,18,-1
+ 93 580 l 1,19,-1
+ 91 573 l 1,20,-1
  86 569 l 1,0,-1
 EndSplineSet
 EndChar

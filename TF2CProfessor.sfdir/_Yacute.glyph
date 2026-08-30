@@ -1,10 +1,10 @@
 StartChar: Yacute
-Encoding: 221 221 137
+Encoding: 221 221 139
 Width: 368
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 57 89 N 1 0 0 1 0 0 2
-Refer: 104 180 N 1 0 0 1 161 153 2
+Refer: 59 89 N 1 0 0 1 0 0 3
+Refer: 106 180 N 1 0 0 1 161 153 2
 EndChar

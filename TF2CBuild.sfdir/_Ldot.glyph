@@ -1,13 +1,9 @@
 StartChar: Ldot
-Encoding: 319 319 272
-AltUni2: 000140.ffffffff.0
+Encoding: 319 319 556
 Width: 1023
-AnchorPoint: "top" 218 1536 basechar 0
-AnchorPoint: "bottom" 471 -10 basechar 0
-AnchorPoint: "bottomatt" 451 20 basechar 0
-AnchorPoint: "bottomattside" 772 53 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 166 183 N 1 0 0 1 454.779 8.4688 2
-Refer: 44 76 N 1 0 0 1 0 0 2
+Refer: 770 183 N 1 0 0 1 454.779 8.4688 2
+Refer: 47 76 N 1 0 0 1 0 0 2
 EndChar

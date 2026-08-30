@@ -1,13 +1,10 @@
 StartChar: amacron
-Encoding: 257 257 334
+Encoding: 257 257 300
 Width: 652
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottomatt" 331 17 basechar 0
-AnchorPoint: "top" 244 623 basechar 0
-AnchorPoint: "bottom" 312 -31 basechar 0
-AnchorPoint: "bottomattside" 526 9 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 772 N 1 0 0 1 374 -179 2
-Refer: 65 97 N 1 0 0 1 0 0 2
+Refer: 339 772 N 1 0 0 1 365.234 -174.805 2
+Refer: 68 97 N 1 0 0 1 0 0 2
 EndChar

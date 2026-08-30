@@ -1,7 +1,7 @@
 StartChar: Lambda
-Encoding: 923 923 180
-AltUni2: 0003bb.ffffffff.0
+Encoding: 923 923 397
 Width: 564
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
@@ -17,5 +17,4 @@ SplineSet
  399 0 l 1,9,-1
  429 37 l 1,0,1
 EndSplineSet
-Substitution2: "mark-downsizer-1" Lambda.mark
 EndChar

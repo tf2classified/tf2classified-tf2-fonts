@@ -1,11 +1,9 @@
 StartChar: J.mark
-Encoding: 65545 -1 235
+Encoding: 65548 -1 293
 Width: 364
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottomattside" 234 27 basechar 0
-AnchorPoint: "bottom" 159 -15 basechar 0
-AnchorPoint: "top" 215 707 basechar 0
 LayerCount: 2
 Fore
-Refer: 42 74 N 1 0 0 0.95 0 0 2
+Refer: 45 74 N 1 0 0 0.95 0 0 2
 EndChar

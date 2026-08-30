@@ -1,0 +1,65 @@
+StartChar: afii10068
+Encoding: 1075 1075 237
+Width: 501
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_1
+ 30
+CALL
+PUSHW_3
+ 10
+ 20
+ 33
+CALL
+SVTCA[y-axis]
+PUSHW_1
+ 0
+MDAP[rnd]
+PUSHW_1
+ 14
+MDAP[rnd]
+PUSHW_3
+ 2
+ 14
+ 0
+SRP1
+SRP2
+IP
+PUSHW_1
+ 0
+SRP0
+PUSHW_1
+ 10
+MDRP[rp0,min,rnd,grey]
+PUSHW_1
+ 20
+MDRP[rp0,grey]
+PUSHW_1
+ 20
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+0 698 m 1,0,-1
+ 471 696 l 1,1,-1
+ 468 563 l 1,2,3
+ 456 581 456 581 445 597 c 0,4,5
+ 436 610 436 610 426.5 622.5 c 128,-1,6
+ 417 635 417 635 410 637 c 0,7,8
+ 407 638 407 638 391 638.5 c 128,-1,9
+ 375 639 375 639 102 636 c 1,10,11
+ 117 57 117 57 118 54 c 0,12,13
+ 120 49 120 49 185 1 c 1,14,-1
+ 10 1 l 1,15,16
+ 48 37 48 37 49 41 c 0,17,18
+ 49 43 49 43 45 343.5 c 128,-1,19
+ 41 644 41 644 44 639 c 1,20,-1
+ 2 639 l 1,21,-1
+ 0 698 l 1,0,-1
+EndSplineSet
+Kerns2: 68 -51 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 59 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 38 -35 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -69 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

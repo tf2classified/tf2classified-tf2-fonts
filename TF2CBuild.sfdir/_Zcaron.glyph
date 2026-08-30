@@ -1,15 +1,10 @@
 StartChar: Zcaron
-Encoding: 381 381 90
-AltUni2: 00017e.ffffffff.0
+Encoding: 381 381 192
 Width: 1221
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 512 -31 basechar 0
-AnchorPoint: "bottomatt" 481 20 basechar 0
-AnchorPoint: "bottomattside" 825 29 basechar 0
-AnchorPoint: "top" 556 1746 basechar 0
 LayerCount: 2
 Fore
-Refer: 58 90 N 1 0 0 1 0 0 2
-Refer: 208 780 N 1 0 0 1 734 186 2
+Refer: 61 90 N 1 0 0 1 0 0 3
+Refer: 195 711 N 1 0 0 1 365 186 2
 EndChar

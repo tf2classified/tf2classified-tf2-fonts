@@ -1,44 +1,166 @@
 StartChar: numbersign
-Encoding: 35 35 3
-Width: 409
+Encoding: 35 35 6
+Width: 400
 GlyphClass: 2
 Flags: W
+TtInstrs:
+PUSHW_3
+ 22
+ 16
+ 3
+CALL
+PUSHW_1
+ 22
+SRP0
+PUSHW_1
+ 9
+MDRP[rp0,grey]
+PUSHW_1
+ 9
+MDAP[rnd]
+PUSHW_1
+ 16
+SRP0
+PUSHW_1
+ 12
+MDRP[rp0,grey]
+PUSHW_1
+ 12
+MDAP[rnd]
+PUSHW_1
+ 16
+SRP0
+PUSHW_1
+ 19
+MDRP[rp0,grey]
+PUSHW_1
+ 22
+SRP0
+PUSHW_1
+ 30
+MDRP[rp0,grey]
+PUSHW_1
+ 30
+MDAP[rnd]
+SVTCA[y-axis]
+PUSHW_1
+ 20
+MDAP[rnd]
+PUSHW_1
+ 11
+MDAP[rnd]
+PUSHW_3
+ 2
+ 9
+ 3
+CALL
+PUSHW_3
+ 22
+ 30
+ 3
+CALL
+PUSHW_1
+ 9
+SRP0
+PUSHW_1
+ 4
+MDRP[rp0,grey]
+PUSHW_1
+ 4
+MDAP[rnd]
+PUSHW_1
+ 9
+SRP0
+PUSHW_1
+ 12
+MDRP[rp0,grey]
+PUSHW_1
+ 12
+MDAP[rnd]
+PUSHW_1
+ 2
+SRP0
+PUSHW_1
+ 14
+MDRP[rp0,grey]
+PUSHW_1
+ 14
+MDAP[rnd]
+PUSHW_1
+ 30
+SRP0
+PUSHW_1
+ 16
+MDRP[rp0,grey]
+PUSHW_1
+ 16
+MDAP[rnd]
+PUSHW_1
+ 22
+SRP0
+PUSHW_1
+ 18
+MDRP[rp0,grey]
+PUSHW_1
+ 18
+MDAP[rnd]
+PUSHW_1
+ 22
+SRP0
+PUSHW_1
+ 26
+MDRP[rp0,grey]
+PUSHW_1
+ 26
+MDAP[rnd]
+PUSHW_1
+ 2
+SRP0
+PUSHW_1
+ 28
+MDRP[rp0,grey]
+PUSHW_1
+ 28
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-243 372 m 1,0,-1
- 248 426 l 1,1,-1
- 139 419 l 1,2,-1
- 141 368 l 1,3,-1
- 243 372 l 1,0,-1
-360 434 m 1,4,-1
- 293 430 l 1,5,-1
- 284 369 l 1,6,-1
- 344 373 l 1,7,-1
- 339 330 l 1,8,-1
- 275 330 l 1,9,-1
- 255 221 l 1,10,-1
- 222 222 l 1,11,-1
- 237 328 l 1,12,-1
- 142 327 l 1,13,-1
- 145 216 l 1,14,-1
- 113 213 l 1,15,-1
- 105 326 l 1,16,-1
- 17 318 l 1,17,-1
- 22 367 l 1,18,-1
- 103 368 l 1,19,-1
- 101 418 l 1,20,-1
- 0 411 l 1,21,-1
- 0 459 l 1,22,-1
- 101 461 l 1,23,-1
- 95 564 l 1,24,-1
- 138 560 l 1,25,-1
- 138 461 l 1,26,-1
- 255 463 l 1,27,-1
- 266 536 l 1,28,-1
- 309 532 l 1,29,-1
- 296 464 l 1,30,-1
- 367 464 l 1,31,-1
- 360 434 l 1,4,-1
+352 424 m 1,0,-1
+ 286 420 l 1,1,-1
+ 277 360 l 1,2,-1
+ 336 364 l 1,3,-1
+ 331 322 l 1,4,-1
+ 269 322 l 1,5,-1
+ 249 216 l 1,6,-1
+ 217 217 l 1,7,-1
+ 231 320 l 1,8,-1
+ 139 319 l 1,9,-1
+ 142 211 l 1,10,-1
+ 110 208 l 1,11,-1
+ 103 318 l 1,12,-1
+ 17 311 l 1,13,-1
+ 21 358 l 1,14,-1
+ 101 359 l 1,15,-1
+ 99 408 l 1,16,-1
+ 0 401 l 1,17,-1
+ 0 448 l 1,18,-1
+ 99 450 l 1,19,-1
+ 93 551 l 1,20,-1
+ 135 547 l 1,21,-1
+ 135 450 l 1,22,-1
+ 249 452 l 1,23,-1
+ 260 523 l 1,24,-1
+ 302 520 l 1,25,-1
+ 289 453 l 1,26,-1
+ 358 453 l 1,27,-1
+ 352 424 l 1,0,-1
+237 363 m 1,28,-1
+ 242 416 l 1,29,-1
+ 136 409 l 1,30,-1
+ 138 359 l 1,31,-1
+ 237 363 l 1,28,-1
 EndSplineSet
 EndChar

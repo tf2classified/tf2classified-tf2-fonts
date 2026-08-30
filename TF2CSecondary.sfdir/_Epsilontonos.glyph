@@ -1,9 +1,10 @@
 StartChar: Epsilontonos
-Encoding: 904 904 301
+Encoding: 904 904 739
 Width: 601
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 37 69 N 1 0 0 1 154 0 2
-Refer: 299 900 N 1 0 0 1 -2 -66 2
+Refer: 40 69 N 1 0 0 1 150.391 0 2
+Refer: 320 900 N 1 0 0 1 -1.95312 -64.4531 2
 EndChar

@@ -1,8 +1,9 @@
 StartChar: uogonek
-Encoding: 371 371 433
+Encoding: 371 371 352
 Width: 216
+Flags: W
 LayerCount: 2
 Fore
-Refer: 363 808 N 1 0 0 1 178 22 2
-Refer: 85 117 N 1 0 0 1 0 0 3
+Refer: 253 808 N 1 0 0 1 178 22 2
+Refer: 87 117 N 1 0 0 1 0 0 3
 EndChar
