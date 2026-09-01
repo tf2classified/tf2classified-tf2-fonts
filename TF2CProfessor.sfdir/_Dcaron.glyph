@@ -1,9 +1,9 @@
 StartChar: Dcaron
-Encoding: 270 270 269
+Encoding: 270 270 268
 Width: 352
 Flags: W
 LayerCount: 2
 Fore
-Refer: 234 711 S 1 0 0 1 69 102 2
+Refer: 233 711 S 1 0 0 1 69 102 2
 Refer: 38 68 N 1 0 0 1 0 0 2
 EndChar

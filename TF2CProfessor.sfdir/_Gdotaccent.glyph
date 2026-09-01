@@ -1,9 +1,9 @@
 StartChar: Gdotaccent
-Encoding: 288 288 283
+Encoding: 288 288 282
 Width: 336
 Flags: W
 LayerCount: 2
 Fore
-Refer: 246 775 N 1 0 0 1 200 -181 2
+Refer: 245 775 N 1 0 0 1 200 -181 2
 Refer: 41 71 N 1 0 0 1 0 0 3
 EndChar

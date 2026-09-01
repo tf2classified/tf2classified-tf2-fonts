@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1262973209
-ModificationTime: 1788054299
+ModificationTime: 1788297873
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -38,9 +38,9 @@ OS2WinAscent: 739
 OS2WinAOffset: 0
 OS2WinDescent: 104
 OS2WinDOffset: 0
-HheadAscent: 750
+HheadAscent: 739
 HheadAOffset: 0
-HheadDescent: -250
+HheadDescent: -104
 HheadDOffset: 0
 OS2SubXSize: 700
 OS2SubYSize: 650
@@ -2204,7 +2204,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 65094 38 14
+WinInfo: 0 38 14
 BeginPrivate: 0
 EndPrivate
 EndSplineFont

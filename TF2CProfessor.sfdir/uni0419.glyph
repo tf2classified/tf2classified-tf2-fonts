@@ -1,9 +1,9 @@
 StartChar: uni0419
-Encoding: 1049 1049 438
+Encoding: 1049 1049 437
 Width: 385
 Flags: W
 LayerCount: 2
 Fore
-Refer: 235 728 N 1 0 0 0.653465 91 194.891 2
-Refer: 437 1048 N 1 0 0 1 0 0 2
+Refer: 234 728 N 1 0 0 0.653465 91 194.891 2
+Refer: 436 1048 N 1 0 0 1 0 0 2
 EndChar

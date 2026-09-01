@@ -1,9 +1,9 @@
 StartChar: iotadieresistonos
-Encoding: 912 912 362
+Encoding: 912 912 361
 Width: 112
 Flags: W
 LayerCount: 2
 Fore
 Refer: 75 105 S 1 0 0 1 0 0 2
-Refer: 256 901 N 0.722222 0 0 0.879195 0.222222 -15.5571 2
+Refer: 255 901 N 0.722222 0 0 0.879195 0.222222 -15.5571 2
 EndChar

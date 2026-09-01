@@ -1,9 +1,9 @@
 StartChar: Ncaron
-Encoding: 327 327 316
+Encoding: 327 327 315
 Width: 385
 Flags: W
 LayerCount: 2
 Fore
-Refer: 234 711 S 1 0 0 1 73 71 2
+Refer: 233 711 S 1 0 0 1 73 71 2
 Refer: 48 78 N 1 0 0 1 0 0 2
 EndChar

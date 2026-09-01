@@ -1,9 +1,9 @@
 StartChar: Ibreve
-Encoding: 300 300 295
+Encoding: 300 300 294
 Width: 144
 Flags: W
 LayerCount: 2
 Fore
-Refer: 245 774 N 1 0 0 1 107 -150 2
+Refer: 244 774 N 1 0 0 1 107 -150 2
 Refer: 43 73 N 1 0 0 1 0 0 3
 EndChar

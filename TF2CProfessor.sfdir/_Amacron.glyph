@@ -1,9 +1,9 @@
 StartChar: Amacron
-Encoding: 256 256 228
+Encoding: 256 256 227
 Width: 343
 Flags: W
 LayerCount: 2
 Fore
-Refer: 221 175 S 0.75 0 0 0.75 95.25 193.5 2
+Refer: 220 175 S 0.75 0 0 0.75 95.25 193.5 2
 Refer: 35 65 N 1 0 0 1 0 0 2
 EndChar

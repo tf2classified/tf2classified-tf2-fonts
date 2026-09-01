@@ -1,9 +1,9 @@
 StartChar: amacron
-Encoding: 257 257 229
+Encoding: 257 257 228
 Width: 277
 Flags: W
 LayerCount: 2
 Fore
-Refer: 221 175 S 0.75 0 0 0.75 20.25 -44.5 2
+Refer: 220 175 S 0.75 0 0 0.75 20.25 -44.5 2
 Refer: 67 97 N 1 0 0 1 0 0 2
 EndChar

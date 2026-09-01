@@ -1,9 +1,9 @@
 StartChar: abreve
-Encoding: 259 259 231
+Encoding: 259 259 230
 Width: 277
 Flags: W
 LayerCount: 2
 Fore
 Refer: 67 97 N 1 0 0 1 0 0 2
-Refer: 235 728 S 0.745726 0 0 0.752475 38.188 -42.7921 2
+Refer: 234 728 S 0.745726 0 0 0.752475 38.188 -42.7921 2
 EndChar

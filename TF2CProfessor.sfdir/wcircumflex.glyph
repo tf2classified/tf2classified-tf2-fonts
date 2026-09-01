@@ -1,9 +1,9 @@
 StartChar: wcircumflex
-Encoding: 373 373 354
+Encoding: 373 373 353
 Width: 359
 Flags: W
 LayerCount: 2
 Fore
-Refer: 242 770 N 1 0 0 1 234 -395 2
+Refer: 241 770 N 1 0 0 1 234 -395 2
 Refer: 89 119 N 1 0 0 1 0 0 3
 EndChar

@@ -1,9 +1,9 @@
 StartChar: Utilde
-Encoding: 360 360 341
+Encoding: 360 360 340
 Width: 330
 Flags: W
 LayerCount: 2
 Fore
-Refer: 243 771 N 1 0 0 1 233 -136 2
+Refer: 242 771 N 1 0 0 1 233 -136 2
 Refer: 55 85 N 1 0 0 1 0 0 3
 EndChar

@@ -1,9 +1,9 @@
 StartChar: Scircumflex
-Encoding: 348 348 333
+Encoding: 348 348 332
 Width: 272
 Flags: W
 LayerCount: 2
 Fore
-Refer: 242 770 N 1 0 0 1 188 -149 2
+Refer: 241 770 N 1 0 0 1 188 -149 2
 Refer: 53 83 N 1 0 0 1 0 0 3
 EndChar

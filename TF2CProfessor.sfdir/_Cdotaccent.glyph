@@ -1,9 +1,9 @@
 StartChar: Cdotaccent
-Encoding: 266 266 265
+Encoding: 266 266 264
 Width: 320
 Flags: W
 LayerCount: 2
 Fore
-Refer: 246 775 N 1 0 0 1 205 -192 2
+Refer: 245 775 N 1 0 0 1 205 -192 2
 Refer: 37 67 N 1 0 0 1 0 0 3
 EndChar
