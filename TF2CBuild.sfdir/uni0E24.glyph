@@ -5,11 +5,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-939 411 m 5
- 1305 409 l 5
- 1291 -394 l 5
- 924 -380 l 5
- 939 411 l 5
+939 411 m 5,0,-1
+ 1305 409 l 5,1,-1
+ 1291 -394 l 5,2,-1
+ 924 -380 l 5,3,-1
+ 939 411 l 5,0,-1
 EndSplineSet
 Refer: 428 3606 N 1 0 0 1 0 0 2
 EndChar

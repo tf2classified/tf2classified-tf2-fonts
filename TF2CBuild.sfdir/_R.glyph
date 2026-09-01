@@ -1,82 +1,8 @@
 StartChar: R
 Encoding: 82 82 53
-Width: 1230
+Width: 1229
 GlyphClass: 2
 Flags: W
-TtInstrs:
-PUSHW_3
- 20
- 25
- 3
-CALL
-NPUSHW
- 5
- 218
- 25
- 234
- 25
- 2
-DELTAP1
-NPUSHW
- 27
- 9
- 25
- 25
- 25
- 41
- 25
- 57
- 25
- 73
- 25
- 89
- 25
- 105
- 25
- 121
- 25
- 137
- 25
- 153
- 25
- 169
- 25
- 185
- 25
- 201
- 25
- 13
-DELTAP1
-PUSHW_1
- 20
-SRP0
-PUSHW_1
- 39
-MDRP[rp0,min,rnd,grey]
-SVTCA[y-axis]
-PUSHW_1
- 10
-MDAP[rnd]
-PUSHW_1
- 12
-MDAP[rnd]
-PUSHW_3
- 5
- 10
- 12
-SRP1
-SRP2
-IP
-PUSHW_3
- 8
- 10
- 12
-SRP1
-SRP2
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

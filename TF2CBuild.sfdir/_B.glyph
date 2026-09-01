@@ -1,31 +1,8 @@
 StartChar: B
 Encoding: 66 66 37
-Width: 1230
+Width: 1229
 GlyphClass: 2
 Flags: W
-TtInstrs:
-PUSHW_3
- 56
- 49
- 3
-CALL
-SVTCA[y-axis]
-PUSHW_1
- 23
-MDAP[rnd]
-PUSHW_1
- 26
-MDAP[rnd]
-PUSHW_3
- 10
- 23
- 26
-SRP1
-SRP2
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
