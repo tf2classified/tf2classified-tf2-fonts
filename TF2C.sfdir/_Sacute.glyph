@@ -1,11 +1,10 @@
 StartChar: Sacute
-Encoding: 346 346 117
-AltUni2: 00015b.ffffffff.0
-Width: 389
+Encoding: 346 346 185
+Width: 395
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 244 -1 S 1 0 0 1 0 0 2
-Refer: 76 180 N 1 0 0 1 105 -22 2
+Refer: 67 96 N -1.49231 0 0 1.50684 303 -380 2
+Refer: 54 83 N 1 0 0 1 0 0 2
 EndChar

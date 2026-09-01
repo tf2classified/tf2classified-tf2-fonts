@@ -1,13 +1,9 @@
 StartChar: ohungarumlaut
-Encoding: 337 337 346
-Width: 622
+Encoding: 337 337 439
+Width: 608
 Flags: W
-AnchorPoint: "bottom" 292 -36 basechar 0
-AnchorPoint: "bottomattside" 390 4 basechar 0
-AnchorPoint: "bottomatt" 317 -3 basechar 0
-AnchorPoint: "top" 276 656 basechar 0
 LayerCount: 2
 Fore
-Refer: 386 779 N 1 0 0 1 421 -119 2
-Refer: 79 111 N 1 0 0 1 0 0 3
+Refer: 344 779 N 1 0 0 1 411.133 -116.211 2
+Refer: 82 111 N 1 0 0 1 0 0 3
 EndChar

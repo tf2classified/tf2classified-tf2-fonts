@@ -1,11 +1,8 @@
 StartChar: uni0327
-Encoding: 807 807 213
+Encoding: 807 807 310
 Width: 0
 Flags: W
-AnchorPoint: "markbottomatt" -172 -320 basemark 0
-AnchorPoint: "markbottomatt" -172 0 mark 0
-AnchorPoint: "bottomatt" -172 0 mark 0
 LayerCount: 2
 Fore
-Refer: 75 184 N 1 0 0 1 -311 0 2
+Refer: 105 184 N 1 0 0 1 -311 0 2
 EndChar

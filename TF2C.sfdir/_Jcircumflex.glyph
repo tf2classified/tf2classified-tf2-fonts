@@ -1,10 +1,10 @@
 StartChar: Jcircumflex
-Encoding: 308 308 316
-AltUni2: 000135.ffffffff.0
+Encoding: 308 308 516
 Width: 364
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 235 -1 S 1 0 0 1 0 0 2
-Refer: 290 770 N 1 0 0 1 309 51 2
+Refer: 293 -1 S 1 0 0 1 0 0 2
+Refer: 363 770 N 1 0 0 1 301.758 49.8047 2
 EndChar

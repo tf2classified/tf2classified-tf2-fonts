@@ -1,8 +1,74 @@
 StartChar: braceleft
-Encoding: 123 123 65
+Encoding: 123 123 94
 Width: 586
 GlyphClass: 2
 Flags: W
+TtInstrs:
+PUSHW_3
+ 50
+ 25
+ 3
+CALL
+NPUSHW
+ 27
+ 6
+ 50
+ 22
+ 50
+ 38
+ 50
+ 54
+ 50
+ 70
+ 50
+ 86
+ 50
+ 102
+ 50
+ 118
+ 50
+ 134
+ 50
+ 150
+ 50
+ 166
+ 50
+ 182
+ 50
+ 198
+ 50
+ 13
+DELTAP1
+NPUSHW
+ 5
+ 213
+ 50
+ 229
+ 50
+ 2
+DELTAP1
+PUSHW_3
+ 53
+ 25
+ 50
+SRP1
+SRP2
+IP
+PUSHW_1
+ 50
+SRP0
+PUSHW_1
+ 58
+MDRP[rp0,grey]
+SVTCA[y-axis]
+PUSHW_3
+ 37
+ 38
+ 3
+CALL
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -64,6 +130,7 @@ SplineSet
  298 174 298 174 328.5 172 c 128,-1,68
  359 170 359 170 394 175.5 c 128,-1,69
  429 181 429 181 464 188 c 1,70,-1
+ 464 18 l 1,71,-1
  464 18 l 1,0,1
 EndSplineSet
 EndChar

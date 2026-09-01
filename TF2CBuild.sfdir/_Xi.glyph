@@ -1,12 +1,7 @@
 StartChar: Xi
-Encoding: 926 926 159
-AltUni2: 0003be.ffffffff.0
+Encoding: 926 926 345
 Width: 1270
 Flags: W
-AnchorPoint: "top" 657 1457 basechar 0
-AnchorPoint: "bottomattside" 903 20 basechar 0
-AnchorPoint: "bottom" 594 -20 basechar 0
-AnchorPoint: "bottomatt" 522 20 basechar 0
 LayerCount: 2
 Fore
 SplineSet

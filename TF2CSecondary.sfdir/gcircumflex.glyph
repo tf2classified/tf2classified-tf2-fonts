@@ -1,13 +1,9 @@
 StartChar: gcircumflex
-Encoding: 285 285 399
-Width: 612
+Encoding: 285 285 395
+Width: 598
 Flags: W
-AnchorPoint: "bottom" 333 -276 basechar 0
-AnchorPoint: "bottomattside" 400 -232 basechar 0
-AnchorPoint: "bottomatt" 369 -228 basechar 0
-AnchorPoint: "top" 261 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 770 N 1 0 0 1 368 -73 2
-Refer: 71 103 N 1 0 0 1 0 0 3
+Refer: 337 770 N 1 0 0 1 359.375 -71.2891 2
+Refer: 74 103 N 1 0 0 1 0 0 3
 EndChar

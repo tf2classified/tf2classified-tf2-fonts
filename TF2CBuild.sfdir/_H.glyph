@@ -1,13 +1,33 @@
 StartChar: H
-Encoding: 72 72 40
-AltUni2: 0003ae.ffffffff.0 000389.ffffffff.0 00041d.ffffffff.0 000397.ffffffff.0 000068.ffffffff.0 0003b7.ffffffff.0 00043d.ffffffff.0
+Encoding: 72 72 43
 Width: 1558
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottomattside" 1135 41 basechar 0
-AnchorPoint: "bottomatt" 778 0 basechar 0
-AnchorPoint: "bottom" 799 -41 basechar 0
-AnchorPoint: "top" 768 1444 basechar 0
+TtInstrs:
+PUSHW_3
+ 9
+ 6
+ 3
+CALL
+PUSHW_1
+ 9
+SRP0
+PUSHW_1
+ 4
+MDRP[rp0,grey]
+PUSHW_1
+ 4
+MDAP[rnd]
+SVTCA[y-axis]
+PUSHW_1
+ 0
+MDAP[rnd]
+PUSHW_1
+ 5
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -22,7 +42,7 @@ SplineSet
  428 1399 l 1,8,-1
  428 641 l 1,9,-1
  1102 659 l 1,10,-1
- 1075 1417 l 5,11,-1
+ 1075 1417 l 1,11,-1
  1413 1430 l 1,0,-1
 EndSplineSet
 EndChar

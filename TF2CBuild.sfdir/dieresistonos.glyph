@@ -1,9 +1,9 @@
 StartChar: dieresistonos
-Encoding: 901 901 154
+Encoding: 901 901 315
 Width: 469
 Flags: W
 LayerCount: 2
 Fore
-Refer: 71 168 S 1 0 0 1 0 0 2
-Refer: 153 900 N 1 0 0 1 129 366 2
+Refer: 100 168 S 1 0 0 1 0 0 2
+Refer: 314 900 N 1 0 0 1 129 366 2
 EndChar

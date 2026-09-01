@@ -1,11 +1,8 @@
 StartChar: tildecomb
-Encoding: 771 771 204
+Encoding: 771 771 295
 Width: 0
 Flags: W
-AnchorPoint: "marktop" -249 1334 mark 0
-AnchorPoint: "marktop" -249 1574 basemark 0
-AnchorPoint: "top" -249 1334 mark 0
 LayerCount: 2
 Fore
-Refer: 95 732 N 1 0 0 1 -496 0 2
+Refer: 198 732 N 1 0 0 1 -496 0 2
 EndChar

@@ -1,11 +1,10 @@
 StartChar: Ntilde
-Encoding: 209 209 96
-AltUni2: 0000f1.ffffffff.0
-Width: 542
+Encoding: 209 209 126
+Width: 521
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 239 -1 N 1 0 0 1 0 0 2
-Refer: 126 732 S 1.41858 0 0 1.3833 118 -22 2
+Refer: 49 78 N 1 0 0 1 -1 0 2
+Refer: 200 732 N 1.41858 0 0 1.3833 115 0 2
 EndChar

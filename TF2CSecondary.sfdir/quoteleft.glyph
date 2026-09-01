@@ -1,7 +1,7 @@
 StartChar: quoteleft
-Encoding: 8216 8216 243
-AltUni2: 00201b.ffffffff.0 002035.ffffffff.0
+Encoding: 8216 8216 266
 Width: 137
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2

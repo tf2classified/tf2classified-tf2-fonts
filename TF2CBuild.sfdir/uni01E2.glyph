@@ -1,13 +1,9 @@
 StartChar: uni01E2
-Encoding: 482 482 319
-AltUni2: 0001e3.ffffffff.0
+Encoding: 482 482 756
 Width: 1847
-AnchorPoint: "bottomatt" 913 12 basechar 0
-AnchorPoint: "bottom" 960 -59 basechar 0
-AnchorPoint: "bottomattside" 1488 17 basechar 0
-AnchorPoint: "top" 938 1792 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 207 772 N 1 0 0 1 1189 213 2
-Refer: 224 198 N 1 0 0 1 0 0 3
+Refer: 296 772 N 1 0 0 1 1189 213 2
+Refer: 113 198 N 1 0 0 1 0 0 3
 EndChar

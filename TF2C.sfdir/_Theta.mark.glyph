@@ -1,10 +1,9 @@
 StartChar: Theta.mark
-Encoding: 65569 -1 259
+Encoding: 65572 -1 317
 Width: 654
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottom" 323 -20 basechar 0
-AnchorPoint: "top" 298 706 basechar 0
 LayerCount: 2
 Fore
-Refer: 179 920 N 1 0 0 0.95 0 0 2
+Refer: 394 920 N 1 0 0 0.95 0 0 2
 EndChar

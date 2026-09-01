@@ -1,15 +1,31 @@
 StartChar: iacute
-Encoding: 237 237 151
-AltUni2: 0003af.ffffffff.0
-Width: 244
+Encoding: 237 237 154
+Width: 218
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottomattside" 79 5 basechar 0
-AnchorPoint: "bottom" 97 -31 basechar 0
-AnchorPoint: "bottomatt" 123 13 basechar 0
-AnchorPoint: "top" 127 618 basechar 0
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 2
+MDAP[rnd]
+PUSHW_1
+ 6
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 379 769 S 1 0 0 1 216 -150 2
-Refer: 255 305 N 1 0 0 1 0 0 3
+SplineSet
+45 450 m 1,0,-1
+ 31 1 l 1,1,-1
+ 108 0 l 1,2,-1
+ 115 450 l 1,3,-1
+ 45 450 l 1,0,-1
+63 470 m 1,4,-1
+ 48 492 l 1,5,-1
+ 142 604 l 1,6,-1
+ 182 558 l 1,7,-1
+ 63 470 l 1,4,-1
+EndSplineSet
 EndChar

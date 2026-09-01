@@ -1,14 +1,10 @@
 StartChar: scaron
-Encoding: 353 353 185
-Width: 445
+Encoding: 353 353 188
+Width: 437
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 211 -30 basechar 0
-AnchorPoint: "bottomattside" 263 0 basechar 0
-AnchorPoint: "bottomatt" 226 -6 basechar 0
-AnchorPoint: "top" 175 715 basechar 0
 LayerCount: 2
 Fore
-Refer: 387 780 S 1 0 0 1 299 -53 2
-Refer: 83 115 N 1 0 0 1 0 0 2
+Refer: 86 115 N 1 0 0 1 -7 0 2
+Refer: 195 711 N 1 0 0 1 82 -52 2
 EndChar

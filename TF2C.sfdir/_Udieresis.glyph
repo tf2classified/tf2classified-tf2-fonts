@@ -1,11 +1,10 @@
 StartChar: Udieresis
-Encoding: 220 220 107
-AltUni2: 0000fc.ffffffff.0
-Width: 552
+Encoding: 220 220 137
+Width: 540
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 246 -1 S 1 0 0 1 0 0 2
-Refer: 72 168 N 1 0 0 1 157 216 0
+Refer: 56 85 N 1 0 0 1 0 0 1
+Refer: 101 168 N 1 0 0 1 153 211 0
 EndChar

@@ -1,11 +1,9 @@
 StartChar: U.mark
-Encoding: 65556 -1 246
+Encoding: 65559 -1 304
 Width: 552
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottomattside" 414 40 basechar 0
-AnchorPoint: "bottom" 302 -26 basechar 0
-AnchorPoint: "top" 238 719 basechar 0
 LayerCount: 2
 Fore
-Refer: 53 85 N 1 0 0 0.95 0 0 2
+Refer: 56 85 N 1 0 0 0.95 0 0 2
 EndChar

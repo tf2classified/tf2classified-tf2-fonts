@@ -1,10 +1,9 @@
 StartChar: Xi.mark
-Encoding: 65571 -1 261
+Encoding: 65574 -1 319
 Width: 569
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottom" 270 -20 basechar 0
-AnchorPoint: "top" 268 680 basechar 0
 LayerCount: 2
 Fore
-Refer: 181 926 N 1 0 0 0.95 0 0 2
+Refer: 400 926 N 1 0 0 0.95 0 0 2
 EndChar

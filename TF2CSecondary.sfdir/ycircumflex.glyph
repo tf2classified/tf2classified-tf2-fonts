@@ -1,13 +1,9 @@
 StartChar: ycircumflex
-Encoding: 375 375 432
-Width: 562
+Encoding: 375 375 469
+Width: 549
 Flags: W
-AnchorPoint: "bottom" 148 -266 basechar 0
-AnchorPoint: "bottomattside" 128 -217 basechar 0
-AnchorPoint: "bottomatt" 174 -215 basechar 0
-AnchorPoint: "top" 276 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 770 N 1 0 0 1 383 -73 2
-Refer: 89 121 N 1 0 0 1 0 0 3
+Refer: 337 770 N 1 0 0 1 374.023 -71.2891 2
+Refer: 92 121 N 1 0 0 1 0 0 3
 EndChar

@@ -1,8 +1,8 @@
 StartChar: uni0225
-Encoding: 549 549 727
+Encoding: 549 549 638
 Width: 484
+VWidth: 1024
 Flags: W
-AnchorPoint: "top" 210 532 basechar 0
 LayerCount: 2
 Fore
 SplineSet

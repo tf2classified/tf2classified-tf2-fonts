@@ -1,15 +1,15 @@
 StartChar: uni0E1B
-Encoding: 3611 3611 395
+Encoding: 3611 3611 433
 Width: 1528
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1093 1830 m 1,0,-1
- 1426 1828 l 5,1,-1
- 1424.5 1117.5 l 1,2,-1
- 1105 1070.5 l 1,3,-1
- 1093 1830 l 1,0,-1
+1093 1830 m 1
+ 1426 1828 l 5
+ 1424.5 1117.5 l 1
+ 1105 1070.5 l 1
+ 1093 1830 l 1
 EndSplineSet
-Refer: 380 3610 N 1 0 0 1 0 0 2
+Refer: 432 3610 N 1 0 0 1 0 0 2
 EndChar

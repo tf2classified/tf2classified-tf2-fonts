@@ -1,9 +1,9 @@
 StartChar: dotlessi
-Encoding: 305 305 208
-AltUni2: 000456.ffffffff.0 0003b9.ffffffff.0 0003af.ffffffff.0
+Encoding: 305 305 210
 Width: 112
+GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
-Refer: 73 105 N 1 0 0 1 0 0 2
+Refer: 75 105 N 1 0 0 1 0 0 2
 EndChar

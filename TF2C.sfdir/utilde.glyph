@@ -1,0 +1,10 @@
+StartChar: utilde
+Encoding: 361 361 557
+Width: 552
+VWidth: 1024
+Flags: W
+LayerCount: 2
+Fore
+Refer: 304 -1 S 1 0 0 1 0 0 2
+Refer: 364 771 N 1 0 0 1 323.242 47.8516 2
+EndChar

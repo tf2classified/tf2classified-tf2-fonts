@@ -1,7 +1,7 @@
 StartChar: epsilon
-Encoding: 949 949 279
-AltUni2: 00025b.ffffffff.0
+Encoding: 949 949 781
 Width: 397
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore

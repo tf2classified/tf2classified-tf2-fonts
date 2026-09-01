@@ -1,0 +1,10 @@
+StartChar: gdotaccent
+Encoding: 289 289 499
+Width: 557
+VWidth: 1024
+Flags: W
+LayerCount: 2
+Fore
+Refer: 290 -1 S 1 0 0 1 0 0 2
+Refer: 367 775 N 1 0 0 1 308.594 22.4609 2
+EndChar

@@ -1,14 +1,10 @@
 StartChar: ucircumflex
-Encoding: 251 251 165
-Width: 568
+Encoding: 251 251 168
+Width: 537
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 256 -31 basechar 0
-AnchorPoint: "bottomattside" 465 15 basechar 0
-AnchorPoint: "bottomatt" 276 7 basechar 0
-AnchorPoint: "top" 253 697 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 770 S 1 0 0 1 359 -102 2
-Refer: 85 117 N 1 0 0 1 0 0 2
+Refer: 88 117 N 1 0 0 1 -14 0 2
+Refer: 194 710 N 1 0 0 1 134 -100 2
 EndChar

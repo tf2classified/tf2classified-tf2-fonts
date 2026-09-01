@@ -1,7 +1,7 @@
 StartChar: Sigma
-Encoding: 931 931 182
-AltUni2: 0003c2.ffffffff.0 0003c3.ffffffff.0
+Encoding: 931 931 404
 Width: 514
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
@@ -23,5 +23,4 @@ SplineSet
  317 389 l 1,16,-1
  112 59 l 1,0,1
 EndSplineSet
-Substitution2: "mark-downsizer-1" Sigma.mark
 EndChar

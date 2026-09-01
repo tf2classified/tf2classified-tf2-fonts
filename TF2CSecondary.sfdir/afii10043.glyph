@@ -1,6 +1,7 @@
 StartChar: afii10043
-Encoding: 1065 1065 209
+Encoding: 1065 1065 224
 Width: 919
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -24,5 +25,5 @@ SplineSet
  777 1 l 1,15,-1
  2 -3 l 1,0,-1
 EndSplineSet
-Kerns2: 377 -25 "kern" 89 -32 "kern" 85 -25 "kern" 78 25 "kern" 74 -25 "kern" 72 12 "kern" 71 -11 "kern" 69 -32 "kern" 44 5 "kern" 43 12 "kern" 38 24 "kern" 37 24 "kern" 36 12 "kern" 34 12 "kern"
+Kerns2: 92 -31 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -31 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 46 12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 37 12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar

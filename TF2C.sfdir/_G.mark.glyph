@@ -1,11 +1,9 @@
 StartChar: G.mark
-Encoding: 65542 -1 232
+Encoding: 65545 -1 290
 Width: 557
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottomattside" 503 17 basechar 0
-AnchorPoint: "bottom" 343 -26 basechar 0
-AnchorPoint: "top" 281 686 basechar 0
 LayerCount: 2
 Fore
-Refer: 39 71 N 1 0 0 0.95 0 0 2
+Refer: 42 71 N 1 0 0 0.95 0 0 2
 EndChar

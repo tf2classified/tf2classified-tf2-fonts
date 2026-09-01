@@ -1,6 +1,7 @@
 StartChar: uni2043
-Encoding: 8259 8259 722
+Encoding: 8259 8259 376
 Width: 304
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore

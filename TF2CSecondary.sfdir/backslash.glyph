@@ -1,15 +1,33 @@
 StartChar: backslash
-Encoding: 92 92 60
-Width: 377
+Encoding: 92 92 63
+Width: 369
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 3
+MDAP[rnd]
+PUSHW_1
+ 1
+MDAP[rnd]
+PUSHW_3
+ 2
+ 1
+ 3
+SRP1
+SRP2
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-326 76 m 1,0,-1
- 284 61 l 1,1,-1
- 12 684 l 1,2,-1
- 89 695 l 1,3,-1
- 326 76 l 1,0,-1
+318 74 m 1,0,-1
+ 277 60 l 1,1,-1
+ 12 668 l 1,2,-1
+ 87 679 l 1,3,-1
+ 318 74 l 1,0,-1
 EndSplineSet
 EndChar

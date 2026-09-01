@@ -1,10 +1,10 @@
 StartChar: Ecaron
-Encoding: 282 282 215
-AltUni2: 00011b.ffffffff.0
+Encoding: 282 282 494
 Width: 509
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 230 -1 N 1 0 0 1 0 0 2
-Refer: 124 711 S 1 0 0 1 181 256 2
+Refer: 288 -1 N 1 0 0 1 0 0 2
+Refer: 197 711 S 1 0 0 1 176.758 250 2
 EndChar

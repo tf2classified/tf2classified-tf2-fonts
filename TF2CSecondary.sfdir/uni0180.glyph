@@ -1,19 +1,16 @@
 StartChar: uni0180
-Encoding: 384 384 470
+Encoding: 384 384 473
 Width: 642
+VWidth: 1024
 Flags: W
-AnchorPoint: "top" 329 701 basechar 0
-AnchorPoint: "bottom" 344 -31 basechar 0
-AnchorPoint: "bottomattside" 398 6 basechar 0
-AnchorPoint: "bottomatt" 367 10 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-0 602 m 1,0,-1
- 279 625 l 1,1,-1
- 283 580 l 1,2,-1
- 3 555 l 1,3,-1
- 0 602 l 1,0,-1
+0 602 m 1
+ 279 625 l 1
+ 283 580 l 1
+ 3 555 l 1
+ 0 602 l 1
 EndSplineSet
-Refer: 66 98 S 1 0 0 1 52 0 2
+Refer: 69 98 S 1 0 0 1 50.7812 0 2
 EndChar

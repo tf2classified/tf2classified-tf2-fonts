@@ -1,16 +1,26 @@
 StartChar: hyphen
-Encoding: 45 45 13
-AltUni2: 0000ad.ffffffff.0 002212.ffffffff.0 002010.ffffffff.0 002011.ffffffff.0
-Width: 292
+Encoding: 45 45 16
+Width: 286
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 1
+MDAP[rnd]
+PUSHW_1
+ 2
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-0 383 m 1,0,-1
- 238 402 l 1,1,-1
- 233 337 l 1,2,-1
- 4 345 l 1,3,-1
- 0 383 l 1,0,-1
+0 374 m 1,0,-1
+ 232 393 l 1,1,-1
+ 228 329 l 1,2,-1
+ 4 337 l 1,3,-1
+ 0 374 l 1,0,-1
 EndSplineSet
 EndChar

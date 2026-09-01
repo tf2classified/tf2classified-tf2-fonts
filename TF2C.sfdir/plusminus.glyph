@@ -1,6 +1,8 @@
 StartChar: plusminus
-Encoding: 177 177 204
+Encoding: 177 177 105
 Width: 303
+VWidth: 1024
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore

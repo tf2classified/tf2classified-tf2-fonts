@@ -1,7 +1,7 @@
 StartChar: afii10033
-Encoding: 1055 1055 203
-AltUni2: 0003a0.ffffffff.0
+Encoding: 1055 1055 214
 Width: 764
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -19,5 +19,5 @@ SplineSet
  87 0 l 1,9,-1
  19 0 l 1,0,-1
 EndSplineSet
-Kerns2: 33 -36 "kern" 35 -48 "kern" 41 -17 "kern" 44 -6 "kern" 45 -17 "kern" 46 -25 "kern" 47 -30 "kern" 50 -31 "kern" 52 -67 "kern" 54 -66 "kern" 69 -48 "kern" 70 32 "kern" 71 -42 "kern" 74 -48 "kern" 78 -18 "kern" 84 -32 "kern" 377 -48 "kern" 254 -17 "kern"
+Kerns2: 87 -31 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 73 31 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -64 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -65 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 -29 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 48 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 44 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 38 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -35 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar

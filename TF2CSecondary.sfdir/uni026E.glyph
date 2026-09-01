@@ -1,9 +1,10 @@
 StartChar: uni026E
-Encoding: 622 622 632
+Encoding: 622 622 701
 Width: 569
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 76 108 N 1 0 0 1 0 0 2
-Refer: 591 658 S 1 0 0 1 85 0 2
+Refer: 79 108 N 1 0 0 1 0 0 2
+Refer: 721 658 S 1 0 0 1 83.0078 0 2
 EndChar

@@ -1,9 +1,9 @@
 StartChar: dotbelowcomb
-Encoding: 803 803 307
+Encoding: 803 803 372
 Width: 0
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottom" -39 0 mark 0
 LayerCount: 2
 Fore
-Refer: 188 729 N 1.37783 0 0 1.17838 -79 -905 2
+Refer: 358 729 N 1.37783 0 0 1.17838 -77.1484 -883.789 2
 EndChar

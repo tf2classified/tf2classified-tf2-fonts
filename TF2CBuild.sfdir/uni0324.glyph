@@ -1,11 +1,8 @@
 StartChar: uni0324
-Encoding: 804 804 215
+Encoding: 804 804 307
 Width: 0
 Flags: W
-AnchorPoint: "markbottom" -228 -285 basemark 0
-AnchorPoint: "markbottom" -227 0 mark 0
-AnchorPoint: "bottom" -227 0 mark 0
 LayerCount: 2
 Fore
-Refer: 71 168 N 1 0 0 1 -474 -1556 2
+Refer: 100 168 N 1 0 0 1 -474 -1556 2
 EndChar

@@ -1,8 +1,25 @@
 StartChar: dieresis
-Encoding: 168 168 98
+Encoding: 168 168 100
 Width: 207
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 18
+MDAP[rnd]
+PUSHW_1
+ 9
+MDAP[rnd]
+PUSHW_1
+ 11
+MDAP[rnd]
+PUSHW_1
+ 24
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -19,7 +36,7 @@ SplineSet
  136 313 l 1,10,-1
  127 317 l 1,11,-1
  121 323 l 1,0,-1
-47 314 m 1,12,-1
+41 321 m 1,12,-1
  36 327 l 1,13,-1
  33 336 l 1,14,-1
  36 346 l 1,15,-1
@@ -32,6 +49,7 @@ SplineSet
  76 327 l 1,22,-1
  64 314 l 1,23,-1
  56 311 l 1,24,-1
- 47 314 l 1,12,-1
+ 47 314 l 1,25,-1
+ 41 321 l 1,12,-1
 EndSplineSet
 EndChar

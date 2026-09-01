@@ -1,13 +1,9 @@
 StartChar: Lacute
-Encoding: 313 313 412
-Width: 565
+Encoding: 313 313 403
+Width: 552
 Flags: W
-AnchorPoint: "bottom" 256 -31 basechar 0
-AnchorPoint: "bottomattside" 505 7 basechar 0
-AnchorPoint: "bottomatt" 294 10 basechar 0
-AnchorPoint: "top" 59 874 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 769 N 1 0 0 1 148 106 2
-Refer: 44 76 N 1 0 0 1 0 0 3
+Refer: 336 769 N 1 0 0 1 144.531 103.516 2
+Refer: 47 76 N 1 0 0 1 0 0 3
 EndChar

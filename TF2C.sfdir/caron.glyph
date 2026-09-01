@@ -1,17 +1,42 @@
 StartChar: caron
-Encoding: 711 711 124
-Width: 204
+Encoding: 711 711 197
+Width: 200
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 1
+MDAP[rnd]
+PUSHW_1
+ 5
+MDAP[rnd]
+PUSHW_3
+ 2
+ 5
+ 1
+SRP1
+SRP2
+IP
+PUSHW_3
+ 4
+ 5
+ 1
+SRP1
+SRP2
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-0 552 m 1,0,-1
- 31 561 l 1,1,-1
- 66 470 l 1,2,-1
- 135 535 l 1,3,-1
- 153 526 l 1,4,-1
- 61 447 l 1,5,-1
- 0 552 l 1,0,-1
+0 539 m 1,0,-1
+ 30 548 l 1,1,-1
+ 64 459 l 1,2,-1
+ 132 522 l 1,3,-1
+ 149 514 l 1,4,-1
+ 60 437 l 1,5,-1
+ 0 539 l 1,0,-1
 EndSplineSet
 EndChar

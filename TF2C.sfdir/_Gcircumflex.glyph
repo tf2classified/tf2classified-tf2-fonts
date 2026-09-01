@@ -1,10 +1,10 @@
 StartChar: Gcircumflex
-Encoding: 284 284 304
-AltUni2: 00011d.ffffffff.0
+Encoding: 284 284 496
 Width: 557
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 232 -1 S 1 0 0 1 0 0 2
-Refer: 290 770 N 1 0 0 1 375 31 2
+Refer: 290 -1 S 1 0 0 1 0 0 2
+Refer: 363 770 N 1 0 0 1 366.211 30.2734 2
 EndChar

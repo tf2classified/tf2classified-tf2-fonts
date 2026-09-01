@@ -1,8 +1,19 @@
 StartChar: asciicircum
-Encoding: 94 94 62
+Encoding: 94 94 64
 Width: 192
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 1
+MDAP[rnd]
+PUSHW_1
+ 19
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

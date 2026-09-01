@@ -1,12 +1,9 @@
 StartChar: iogonek
-Encoding: 303 303 464
-Width: 234
+Encoding: 303 303 426
+Width: 229
 Flags: W
-AnchorPoint: "bottom" 97 -31 basechar 0
-AnchorPoint: "bottomatt" 123 13 basechar 0
-AnchorPoint: "bottomattside" 81 -91 basechar 0
 LayerCount: 2
 Fore
-Refer: 443 808 N 1 0 0 1 130 1 2
-Refer: 73 105 N 1 0 0 1 0 0 3
+Refer: 327 808 N 1 0 0 1 126.953 0.976562 2
+Refer: 76 105 N 1 0 0 1 0 0 3
 EndChar

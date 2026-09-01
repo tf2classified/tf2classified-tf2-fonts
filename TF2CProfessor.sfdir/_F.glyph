@@ -1,11 +1,70 @@
 StartChar: F
-Encoding: 70 70 38
+Encoding: 70 70 40
 Width: 288
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottomattside" 70 89 basechar 0
-AnchorPoint: "bottom" 82 10 basechar 0
-AnchorPoint: "top" 138 553 basechar 0
+TtInstrs:
+PUSHW_3
+ 11
+ 20
+ 3
+CALL
+PUSHW_1
+ 20
+SRP0
+PUSHW_1
+ 26
+MDRP[rp0,grey]
+PUSHW_1
+ 26
+MDAP[rnd]
+PUSHW_1
+ 11
+SRP0
+PUSHW_1
+ 47
+MDRP[rp0,grey]
+SVTCA[y-axis]
+PUSHW_1
+ 17
+MDAP[rnd]
+PUSHW_3
+ 33
+ 41
+ 3
+CALL
+PUSHW_3
+ 51
+ 0
+ 3
+CALL
+PUSHW_1
+ 0
+SRP0
+PUSHW_1
+ 7
+MDRP[rp0,grey]
+PUSHW_1
+ 41
+SRP0
+PUSHW_1
+ 37
+MDRP[rp0,grey]
+PUSHW_1
+ 37
+MDAP[rnd]
+PUSHW_1
+ 41
+SRP0
+PUSHW_1
+ 44
+MDRP[rp0,grey]
+PUSHW_1
+ 44
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

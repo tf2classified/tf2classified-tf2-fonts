@@ -1,0 +1,10 @@
+StartChar: ccircumflex
+Encoding: 265 265 479
+Width: 532
+VWidth: 1024
+Flags: W
+LayerCount: 2
+Fore
+Refer: 286 -1 S 1 0 0 1 0 0 2
+Refer: 363 770 N 1 0 0 1 353.516 48.8281 2
+EndChar

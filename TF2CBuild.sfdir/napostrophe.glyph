@@ -1,12 +1,9 @@
 StartChar: napostrophe
-Encoding: 329 329 274
+Encoding: 329 329 645
 Width: 1669
-AnchorPoint: "top" 967 1448 basechar 0
-AnchorPoint: "bottom" 990 -41 basechar 0
-AnchorPoint: "bottomatt" 969 0 basechar 0
-AnchorPoint: "bottomattside" 1301 47 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 253 700 N 1 0 0 1 0 0 2
-Refer: 46 78 N 1 0 0 1 324 0 2
+Refer: 288 700 N 1 0 0 1 0 0 2
+Refer: 49 78 N 1 0 0 1 324 0 2
 EndChar

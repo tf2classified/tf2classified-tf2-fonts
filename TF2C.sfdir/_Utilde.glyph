@@ -1,10 +1,10 @@
 StartChar: Utilde
-Encoding: 360 360 322
-AltUni2: 000169.ffffffff.0
+Encoding: 360 360 556
 Width: 552
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 246 -1 S 1 0 0 1 0 0 2
-Refer: 291 771 N 1 0 0 1 331 49 2
+Refer: 304 -1 S 1 0 0 1 0 0 2
+Refer: 364 771 N 1 0 0 1 323.242 47.8516 2
 EndChar

@@ -1,13 +1,10 @@
 StartChar: dcaron
-Encoding: 271 271 338
+Encoding: 271 271 310
 Width: 769
+VWidth: 1024
 Flags: W
-AnchorPoint: "top" 307 717 basechar 0
-AnchorPoint: "bottom" 297 -31 basechar 0
-AnchorPoint: "bottomattside" 525 2 basechar 0
-AnchorPoint: "bottomatt" 321 10 basechar 0
 LayerCount: 2
 Fore
-Refer: 7 39 N 1 0 0 1 632 0 2
-Refer: 68 100 N 1 0 0 1 0 0 2
+Refer: 10 39 N 1 0 0 1 617.188 0 2
+Refer: 71 100 N 1 0 0 1 0 0 2
 EndChar

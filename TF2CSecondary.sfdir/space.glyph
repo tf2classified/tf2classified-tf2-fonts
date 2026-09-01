@@ -1,8 +1,8 @@
 StartChar: space
-Encoding: 32 32 0
-Width: 350
+Encoding: 32 32 3
+Width: 342
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Kerns2: 377 -128 "kern" 89 -48 "kern" 86 -72 "kern" 84 -32 "kern" 79 -16 "kern" 74 -128 "kern" 65 -56 "kern" 54 -16 "kern" 42 -96 "kern"
+Kerns2: 92 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -31 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -125 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -55 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 45 -94 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar

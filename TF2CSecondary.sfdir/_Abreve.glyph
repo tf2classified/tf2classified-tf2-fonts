@@ -1,13 +1,10 @@
 StartChar: Abreve
-Encoding: 258 258 261
+Encoding: 258 258 301
 Width: 645
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottomatt" 314 -10 basechar 0
-AnchorPoint: "top" 264 845 basechar 0
-AnchorPoint: "bottom" 297 -10 basechar 0
-AnchorPoint: "bottomattside" 561 19 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 774 N 1 0 0 1 408 77 2
-Refer: 33 65 N 1 0 0 1 0 0 2
+Refer: 340 774 N 1 0 0 1 398.438 75.1953 2
+Refer: 36 65 N 1 0 0 1 0 0 2
 EndChar

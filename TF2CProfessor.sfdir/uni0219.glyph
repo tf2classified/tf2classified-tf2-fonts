@@ -1,8 +1,9 @@
 StartChar: uni0219
-Encoding: 537 537 217
+Encoding: 537 537 359
 Width: 192
+Flags: W
 LayerCount: 2
 Fore
-Refer: 295 806 N 1 0 0 1 132.75 -9.75 2
-Refer: 83 115 N 1 0 0 1 0 0 3
+Refer: 252 806 N 1 0 0 1 132.75 -9.75 2
+Refer: 85 115 N 1 0 0 1 0 0 3
 EndChar

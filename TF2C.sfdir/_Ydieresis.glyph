@@ -1,11 +1,10 @@
 StartChar: Ydieresis
-Encoding: 376 376 119
-AltUni2: 0000ff.ffffffff.0 0003ab.ffffffff.0 0003cb.ffffffff.0
-Width: 563
+Encoding: 376 376 189
+Width: 550
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 250 -1 S 1 0 0 1 0 0 2
-Refer: 72 168 N 1 0 0 1 157 215 2
+Refer: 92 121 N 1 0 0 1 0 0 3
+Refer: 101 168 N 1 0 0 1 153 210 2
 EndChar

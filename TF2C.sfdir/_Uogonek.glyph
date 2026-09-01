@@ -1,10 +1,9 @@
 StartChar: Uogonek
-Encoding: 370 370 337
-AltUni2: 000173.ffffffff.0
-Width: 552
+Encoding: 370 370 566
+Width: 540
 Flags: W
 LayerCount: 2
 Fore
-Refer: 305 808 N 1 0 0 1 464 36 2
-Refer: 53 85 N 1 0 0 1 0 0 3
+Refer: 375 808 N 1 0 0 1 453.125 35.1562 2
+Refer: 56 85 N 1 0 0 1 0 0 3
 EndChar

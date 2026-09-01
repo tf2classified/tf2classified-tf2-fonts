@@ -1,11 +1,8 @@
 StartChar: gravecomb
-Encoding: 768 768 201
+Encoding: 768 768 292
 Width: 0
 Flags: W
-AnchorPoint: "marktop" -130 1536 basemark 0
-AnchorPoint: "marktop" -132 1248 mark 0
-AnchorPoint: "top" -132 1248 mark 0
 LayerCount: 2
 Fore
-Refer: 64 96 N 1 0 0 1 -341 0 2
+Refer: 67 96 N 1 0 0 1 -341 0 2
 EndChar

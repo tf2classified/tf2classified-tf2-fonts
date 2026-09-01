@@ -1,12 +1,9 @@
 StartChar: Oslashacute
-Encoding: 510 510 521
-Width: 870
+Encoding: 510 510 599
+Width: 851
 Flags: W
-AnchorPoint: "bottomattside" 549 10 basechar 0
-AnchorPoint: "bottom" 420 -31 basechar 0
-AnchorPoint: "top" 425 883 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 769 N 1 0 0 1 514 115 2
-Refer: 130 216 N 1 0 0 1 0 0 3
+Refer: 336 769 N 1 0 0 1 501.953 112.305 2
+Refer: 133 216 N 1 0 0 1 0 0 3
 EndChar

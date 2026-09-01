@@ -1,9 +1,9 @@
 StartChar: uni0326
-Encoding: 806 806 308
+Encoding: 806 806 373
 Width: 0
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottom" -43 0 mark 0
 LayerCount: 2
 Fore
-Refer: 12 44 S 1 0 0 1 -90 -83 2
+Refer: 15 44 S 1 0 0 1 -87.8906 -81.0547 2
 EndChar

@@ -1,7 +1,7 @@
 StartChar: emdash
-Encoding: 8212 8212 242
-AltUni2: 002015.ffffffff.0
+Encoding: 8212 8212 265
 Width: 821
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2

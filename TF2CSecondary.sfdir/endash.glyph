@@ -1,6 +1,7 @@
 StartChar: endash
-Encoding: 8211 8211 241
+Encoding: 8211 8211 264
 Width: 420
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2

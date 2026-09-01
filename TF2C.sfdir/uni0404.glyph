@@ -1,7 +1,7 @@
 StartChar: uni0404
-Encoding: 1028 1028 220
-AltUni2: 000454.ffffffff.0
+Encoding: 1028 1028 461
 Width: 523
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
@@ -33,5 +33,4 @@ SplineSet
  350 62 350 62 466 102 c 1,33,-1
  486 40 l 1,0,1
 EndSplineSet
-Substitution2: "mark-downsizer-1" uni0404.mark
 EndChar

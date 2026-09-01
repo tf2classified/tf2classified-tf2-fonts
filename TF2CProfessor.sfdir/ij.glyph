@@ -1,8 +1,9 @@
 StartChar: ij
-Encoding: 307 307 349
+Encoding: 307 307 300
 Width: 320
+Flags: W
 LayerCount: 2
 Fore
-Refer: 74 106 N 1 0 0 1 112 0 2
-Refer: 73 105 N 1 0 0 1 0 0 2
+Refer: 76 106 N 1 0 0 1 112 0 2
+Refer: 75 105 N 1 0 0 1 0 0 2
 EndChar

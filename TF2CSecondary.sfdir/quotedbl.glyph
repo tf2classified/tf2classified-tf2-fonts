@@ -1,20 +1,31 @@
 StartChar: quotedbl
-Encoding: 34 34 2
-Width: 229
+Encoding: 34 34 5
+Width: 224
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 7
+MDAP[rnd]
+PUSHW_1
+ 2
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-173 699 m 1,0,-1
- 153 544 l 1,1,-1
- 112 544 l 1,2,-1
- 99 718 l 1,3,-1
- 173 699 l 1,0,-1
-4 695 m 1,4,-1
- 81 699 l 1,5,-1
- 81 508 l 1,6,-1
- 40 508 l 1,7,-1
- 4 695 l 1,4,-1
+4 679 m 1,0,-1
+ 79 683 l 1,1,-1
+ 79 496 l 1,2,-1
+ 39 496 l 1,3,-1
+ 4 679 l 1,0,-1
+169 683 m 1,4,-1
+ 149 531 l 1,5,-1
+ 109 531 l 1,6,-1
+ 97 701 l 1,7,-1
+ 169 683 l 1,4,-1
 EndSplineSet
 EndChar

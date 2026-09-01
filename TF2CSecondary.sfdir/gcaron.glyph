@@ -1,13 +1,9 @@
 StartChar: gcaron
-Encoding: 487 487 509
-Width: 612
+Encoding: 487 487 576
+Width: 598
 Flags: W
-AnchorPoint: "bottom" 333 -276 basechar 0
-AnchorPoint: "bottomattside" 400 -232 basechar 0
-AnchorPoint: "bottomatt" 369 -228 basechar 0
-AnchorPoint: "top" 261 695 basechar 0
 LayerCount: 2
 Fore
-Refer: 387 780 N 1 0 0 1 385 -73 2
-Refer: 71 103 N 1 0 0 1 0 0 3
+Refer: 345 780 N 1 0 0 1 375.977 -71.2891 2
+Refer: 74 103 N 1 0 0 1 0 0 3
 EndChar

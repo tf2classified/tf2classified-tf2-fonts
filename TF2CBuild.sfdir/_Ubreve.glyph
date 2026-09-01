@@ -1,13 +1,9 @@
 StartChar: Ubreve
-Encoding: 364 364 281
-AltUni2: 00016d.ffffffff.0
+Encoding: 364 364 672
 Width: 1528
-AnchorPoint: "bottom" 768 -82 basechar 0
-AnchorPoint: "bottomatt" 717 0 basechar 0
-AnchorPoint: "bottomattside" 744 16 basechar 0
-AnchorPoint: "top" 802 1722 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 205 774 N 1 0 0 1 1046 136 2
-Refer: 53 85 N 1 0 0 1 0 0 2
+Refer: 297 774 N 1 0 0 1 1046 136 2
+Refer: 56 85 N 1 0 0 1 0 0 2
 EndChar

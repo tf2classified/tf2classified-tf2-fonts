@@ -1,14 +1,10 @@
 StartChar: uacute
-Encoding: 250 250 164
-Width: 568
+Encoding: 250 250 167
+Width: 537
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 256 -31 basechar 0
-AnchorPoint: "bottomattside" 465 15 basechar 0
-AnchorPoint: "bottomatt" 276 7 basechar 0
-AnchorPoint: "top" 294 644 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 769 S 1 0 0 1 383 -124 2
-Refer: 85 117 N 1 0 0 1 0 0 2
+Refer: 88 117 N 1 0 0 1 -14 0 2
+Refer: 106 180 N 1 0 0 1 223 -120 2
 EndChar

@@ -1,11 +1,10 @@
 StartChar: Edieresis
-Encoding: 203 203 119
-AltUni2: 000401.ffffffff.0
-Width: 337
+Encoding: 203 203 121
+Width: 336
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 37 69 N 1 0 0 1 0 0 2
-Refer: 98 168 S 1 0 0 1 43 275 2
+Refer: 39 69 N 1 0 0 1 0 0 2
+Refer: 100 168 N 1 0 0 1 43 275 2
 EndChar

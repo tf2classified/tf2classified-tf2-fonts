@@ -1,10 +1,9 @@
 StartChar: uni01E3
-Encoding: 483 483 538
-Width: 1059
+Encoding: 483 483 572
+Width: 1017
 Flags: W
-AnchorPoint: "top" 543 622 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 772 N 1 0 0 1 673 -180 2
-Refer: 144 230 N 1 0 0 1 0 0 3
+Refer: 339 772 N 1 0 0 1 657.227 -175.781 2
+Refer: 147 230 N 1 0 0 1 0 0 3
 EndChar

@@ -1,11 +1,10 @@
 StartChar: Idotaccent
-Encoding: 304 304 207
+Encoding: 304 304 209
 Width: 144
+GlyphClass: 1
 Flags: W
-AnchorPoint: "bottom" 97 56 basechar 0
-AnchorPoint: "bottomattside" 90 90 basechar 0
 LayerCount: 2
 Fore
-Refer: 288 729 N 1 0 0 1 -1 90 2
-Refer: 41 73 N 1 0 0 1 0 0 2
+Refer: 236 729 N 1 0 0 1 -1 90 2
+Refer: 43 73 N 1 0 0 1 0 0 2
 EndChar

@@ -1,15 +1,16 @@
 StartChar: florin
-Encoding: 402 402 486
+Encoding: 402 402 491
 Width: 365
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-55 2 m 1,0,-1
- 136 6 l 1,1,2
- 147 -227 147 -227 -132 -133 c 5,3,-1
- -102 -72 l 1,4,5
- 58 -144 58 -144 55 2 c 1,0,-1
+55 2 m 1
+ 136 6 l 1
+ 147 -227 147 -227 -132 -133 c 5
+ -102 -72 l 1
+ 58 -144 58 -144 55 2 c 1
 EndSplineSet
-Refer: 70 102 N 1 0 0 1 0 0 2
+Refer: 73 102 N 1 0 0 1 0 0 2
 EndChar

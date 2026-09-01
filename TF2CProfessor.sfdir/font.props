@@ -2,27 +2,27 @@ SplineFontDB: 3.2
 FontName: TF2CProfessor
 FullName: TF2C Professor
 FamilyName: TF2C Professor
-Weight: Regular
-Copyright: 
-Version: 2.9 12/5/07
+Weight: Book
+Copyright: TF2 fonts are copyright (c) Andrea Wicklund 2007.\n\nModified with extended character support by EMINOMA.
+Version: 1.0 08/29/2026
 ItalicAngle: 0
 UnderlinePosition: -150
 UnderlineWidth: 100
 Ascent: 819
 Descent: 205
 InvalidEm: 0
-sfntRevision: 0x0002024e
+sfntRevision: 0x000206a8
 LayerCount: 2
-Layer: 0 1 "Arri+AOgA-re" 1
-Layer: 1 1 "Avant" 0
-XUID: [1021 514 -2062894156 18552]
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 379 -917273317 2007]
 StyleMap: 0x0040
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1263062704
-ModificationTime: 1658170672
+ModificationTime: 1788058251
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -57,9 +57,7 @@ OS2XHeight: 319
 OS2Vendor: 'Alts'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80000027.0000000a.00000000.00000000
-Lookup: 1 0 0 "turkish" { "turkish-1"  } ['locl' ('latn' <'TRK ' > 'latn' <'AZE ' > 'latn' <'KAZ ' > ) ]
-Lookup: 258 0 0 "kern" { "kern" [153,15,0] } ['kern' ('latn' <'dflt' > ) ]
-Lookup: 260 0 0 "mark" { "mark-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'KAZ ' 'TRK ' 'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -1470,17 +1468,11 @@ POP
 EIF
 ENDF
 EndTTInstrs
-ShortTable: cvt  10
+ShortTable: cvt  4
   21
   21
   21
   21
-  15
-  75
-  284
-  329
-  455
-  540
 EndShort
 ShortTable: maxp 16
   1
@@ -1500,15 +1492,14 @@ ShortTable: maxp 16
   2
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 2.9 12/5/07"
+LangName: 1033 "" "" "Regular" "" "" "Version 2.9 12/5/07"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -96
+DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 864 16 8
+WinInfo: 798 38 14
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "bottomattside" "mark-1" "bottom" "mark-1" "top" "mark-1"
 EndSplineFont

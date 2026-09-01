@@ -1,9 +1,9 @@
 StartChar: Omacron
-Encoding: 332 332 328
+Encoding: 332 332 321
 Width: 350
 Flags: W
 LayerCount: 2
 Fore
-Refer: 303 175 S 0.75 0 0 0.75 95.25 193.5 2
-Refer: 47 79 N 1 0 0 1 0 0 2
+Refer: 221 175 S 0.75 0 0 0.75 95.25 193.5 2
+Refer: 49 79 N 1 0 0 1 0 0 2
 EndChar

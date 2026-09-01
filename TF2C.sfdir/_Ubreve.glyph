@@ -1,10 +1,10 @@
 StartChar: Ubreve
-Encoding: 364 364 324
-AltUni2: 00016d.ffffffff.0
+Encoding: 364 364 560
 Width: 552
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 246 -1 S 1 0 0 1 0 0 2
-Refer: 294 774 N 1 0 0 1 299 19 2
+Refer: 304 -1 S 1 0 0 1 0 0 2
+Refer: 366 774 N 1 0 0 1 291.992 18.5547 2
 EndChar

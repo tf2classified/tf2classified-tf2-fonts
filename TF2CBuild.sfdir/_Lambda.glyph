@@ -1,12 +1,7 @@
 StartChar: Lambda
-Encoding: 923 923 158
-AltUni2: 00028c.ffffffff.0 000245.ffffffff.0 0003bb.ffffffff.0
+Encoding: 923 923 342
 Width: 1581
 Flags: W
-AnchorPoint: "top" 669 1451 basechar 0
-AnchorPoint: "bottomattside" 1147 34 basechar 0
-AnchorPoint: "bottom" 765 -14 basechar 0
-AnchorPoint: "bottomatt" 771 -7 basechar 0
 LayerCount: 2
 Fore
 SplineSet

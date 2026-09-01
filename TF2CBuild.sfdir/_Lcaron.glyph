@@ -1,14 +1,9 @@
 StartChar: Lcaron
-Encoding: 317 317 285
-AltUni2: 00013e.ffffffff.0
+Encoding: 317 317 554
 Width: 1023
 Flags: W
-AnchorPoint: "top" 218 1536 basechar 0
-AnchorPoint: "bottom" 471 -10 basechar 0
-AnchorPoint: "bottomatt" 451 20 basechar 0
-AnchorPoint: "bottomattside" 772 53 basechar 0
 LayerCount: 2
 Fore
-Refer: 7 39 N 1 0 0 1 478 -88 2
-Refer: 44 76 N 1 0 0 1 0 0 2
+Refer: 10 39 N 1 0 0 1 478 -88 2
+Refer: 47 76 N 1 0 0 1 0 0 2
 EndChar

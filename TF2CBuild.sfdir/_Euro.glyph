@@ -1,8 +1,43 @@
 StartChar: Euro
-Encoding: 8364 8364 123
+Encoding: 8364 8364 270
 Width: 983
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 47
+MDAP[rnd]
+PUSHW_1
+ 26
+MDAP[rnd]
+PUSHW_3
+ 16
+ 17
+ 3
+CALL
+PUSHW_3
+ 7
+ 26
+ 47
+SRP1
+SRP2
+IP
+PUSHW_1
+ 17
+SRP0
+PUSHW_1
+ 31
+MDRP[rp0,grey]
+PUSHW_1
+ 16
+SRP0
+PUSHW_1
+ 33
+MDRP[rp0,grey]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -49,6 +84,7 @@ SplineSet
  696 1382 696 1382 743.5 1375 c 128,-1,49
  791 1368 791 1368 821 1360 c 0,50,51
  856 1350 856 1350 879 1339 c 1,52,-1
+ 879 1104 l 1,53,-1
  879 1104 l 1,0,1
 EndSplineSet
 EndChar

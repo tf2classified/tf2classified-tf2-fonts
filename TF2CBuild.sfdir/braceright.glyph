@@ -1,8 +1,61 @@
 StartChar: braceright
-Encoding: 125 125 66
+Encoding: 125 125 95
 Width: 586
 GlyphClass: 2
 Flags: W
+TtInstrs:
+PUSHW_3
+ 57
+ 26
+ 3
+CALL
+NPUSHW
+ 5
+ 218
+ 26
+ 234
+ 26
+ 2
+DELTAP1
+NPUSHW
+ 27
+ 9
+ 26
+ 25
+ 26
+ 41
+ 26
+ 57
+ 26
+ 73
+ 26
+ 89
+ 26
+ 105
+ 26
+ 121
+ 26
+ 137
+ 26
+ 153
+ 26
+ 169
+ 26
+ 185
+ 26
+ 201
+ 26
+ 13
+DELTAP1
+SVTCA[y-axis]
+PUSHW_3
+ 34
+ 33
+ 3
+CALL
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

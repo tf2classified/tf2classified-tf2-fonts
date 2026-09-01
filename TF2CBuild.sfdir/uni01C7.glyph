@@ -1,10 +1,9 @@
 StartChar: uni01C7
-Encoding: 455 455 303
-AltUni2: 0001c8.ffffffff.0 0001c9.ffffffff.0
+Encoding: 455 455 729
 Width: 1924
 Flags: W
 LayerCount: 2
 Fore
-Refer: 42 74 S 1 0 0 1 949 0 2
-Refer: 44 76 N 1 0 0 1 0 0 2
+Refer: 45 74 S 1 0 0 1 949 0 2
+Refer: 47 76 N 1 0 0 1 0 0 2
 EndChar

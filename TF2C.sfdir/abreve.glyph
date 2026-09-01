@@ -1,0 +1,10 @@
+StartChar: abreve
+Encoding: 259 259 477
+Width: 507
+VWidth: 1024
+Flags: W
+LayerCount: 2
+Fore
+Refer: 284 -1 N 1 0 0 1 0 0 2
+Refer: 198 728 S 1 0 0 1 152.344 54.6875 2
+EndChar

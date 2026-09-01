@@ -2,27 +2,27 @@ SplineFontDB: 3.2
 FontName: TF2CBuild
 FullName: TF2C Build
 FamilyName: TF2C Build
-Weight: Regular
-Copyright: 
-Version: 1.000
+Weight: Book
+Copyright: TF2 fonts are copyright (c) Andrea Wicklund 2007.\n\nModified with extended character support by EMINOMA.
+Version: 1.0 08/29/2026
 ItalicAngle: 0
 UnderlinePosition: -205
 UnderlineWidth: 102
 Ascent: 1536
 Descent: 512
 InvalidEm: 0
-sfntRevision: 0x00010000
+sfntRevision: 0x000206a8
 LayerCount: 2
-Layer: 0 1 "Arri+AOgA-re" 1
-Layer: 1 1 "Avant" 0
-XUID: [1021 514 -2062894156 20026]
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 379 -917273317 15054]
 StyleMap: 0x0040
 FSType: 4
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1263051083
-ModificationTime: 1754519370
+ModificationTime: 1788056751
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,10 +57,7 @@ OS2XHeight: 1433
 OS2Vendor: 'PYRS'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80000027.0000004a.00000000.00000000
-Lookup: 1 0 0 "turkish" { "turkish-1"  } ['locl' ('latn' <'TRK ' > 'latn' <'KAZ ' > 'latn' <'AZE ' > ) ]
-Lookup: 262 0 0 "mkmk" { "mkmk-1"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "mark" { "mark-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 0 0 "kern" { "kern" [307,30,0] } ['kern' ('latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -1471,15 +1468,11 @@ POP
 EIF
 ENDF
 EndTTInstrs
-ShortTable: cvt  8
+ShortTable: cvt  4
   42
   42
   42
   42
-  0
-  29
-  1403
-  1430
 EndShort
 ShortTable: maxp 16
   1
@@ -1499,20 +1492,15 @@ ShortTable: maxp 16
   2
   1
 EndShort
-LangName: 1033
+LangName: 1033 "" "" "TF2 Build" "" "" "Version 1.000"
 GaspTable: 3 8 2 16 2 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -96
+DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 16 7
+WinInfo: 4218 38 14
 BeginPrivate: 0
 EndPrivate
-Grid
--958.878417969 2560 m 0
- -958.878417969 -1536 l 1024
-EndSplineSet
-AnchorClass2: "markbottomattside" "mkmk-1" "markbottom" "mkmk-1" "markbottomatt" "mkmk-1" "marktop" "mkmk-1" "bottomattside" "mark-1" "bottomatt" "mark-1" "bottom" "mark-1" "top" "mark-1"
 EndSplineFont

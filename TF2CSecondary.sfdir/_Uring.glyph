@@ -1,13 +1,10 @@
 StartChar: Uring
-Encoding: 366 366 351
+Encoding: 366 366 460
 Width: 746
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottom" 348 -36 basechar 0
-AnchorPoint: "bottomattside" 481 25 basechar 0
-AnchorPoint: "bottomatt" 382 13 basechar 0
-AnchorPoint: "top" 328 858 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 778 S 1 0 0 1 391 71 2
-Refer: 53 85 N 1 0 0 1 0 0 2
+Refer: 343 778 S 1 0 0 1 381.836 69.3359 2
+Refer: 56 85 N 1 0 0 1 0 0 2
 EndChar

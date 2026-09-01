@@ -1,8 +1,10 @@
 StartChar: uni2048
-Encoding: 8264 8264 710
+Encoding: 8264 8264 378
 Width: 676
+VWidth: 1024
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1 33 N 1 0 0 1 471 0 2
-Refer: 31 63 N 1 0 0 1 0 0 2
+Refer: 4 33 N 1 0 0 1 459.961 0 2
+Refer: 34 63 N 1 0 0 1 0 0 2
 EndChar

@@ -1,12 +1,26 @@
 StartChar: comma
-Encoding: 44 44 12
+Encoding: 44 44 14
 Width: 176
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 3
+MDAP[rnd]
+PUSHW_1
+ 20
+MDAP[rnd]
+PUSHW_1
+ 22
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-140 -28 m 1,0,-1
+132 -36 m 1,0,-1
  124 -44 l 1,1,-1
  100 -52 l 1,2,-1
  68 -76 l 1,3,-1
@@ -31,6 +45,7 @@ SplineSet
  140 108 l 1,22,-1
  144 96 l 1,23,-1
  144 -16 l 1,24,-1
- 140 -28 l 1,0,-1
+ 140 -28 l 1,25,-1
+ 132 -36 l 1,0,-1
 EndSplineSet
 EndChar

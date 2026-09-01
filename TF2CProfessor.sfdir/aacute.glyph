@@ -1,10 +1,10 @@
 StartChar: aacute
-Encoding: 225 225 141
-Width: 277
+Encoding: 225 225 143
+Width: 288
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 104 180 N 0.737854 0 0 0.71344 69 19 2
-Refer: 65 97 N 1 0 0 1 0 0 2
+Refer: 67 97 N 1 0 0 1 0 0 2
+Refer: 106 180 N 0.504883 0 0 0.555542 76 91 2
 EndChar

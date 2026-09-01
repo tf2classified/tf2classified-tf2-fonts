@@ -1,21 +1,16 @@
 StartChar: Theta
-Encoding: 920 920 157
-AltUni2: 0003b8.ffffffff.0
+Encoding: 920 920 339
 Width: 1595
 Flags: W
-AnchorPoint: "top" 684 1481 basechar 0
-AnchorPoint: "bottom" 778 -51 basechar 0
-AnchorPoint: "bottomatt" 758 0 basechar 0
-AnchorPoint: "bottomattside" 792 27 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1008 558 m 1,0,-1
- 716 553 l 1,1,-1
- 511 553 l 1,2,-1
- 513 772 l 1,3,-1
- 1019 757 l 1,4,-1
- 1008 558 l 1,0,-1
+1008 558 m 1
+ 716 553 l 1
+ 511 553 l 1
+ 513 772 l 1
+ 1019 757 l 1
+ 1008 558 l 1
 EndSplineSet
-Refer: 47 79 S 1 0 0 1 0 0 2
+Refer: 50 79 S 1 0 0 1 0 0 2
 EndChar

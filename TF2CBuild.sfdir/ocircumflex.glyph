@@ -1,0 +1,11 @@
+StartChar: ocircumflex
+Encoding: 244 244 159
+Width: 1595
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 194 710 N 1 0 0 1 549 213 2
+Kerns2: 93 -72 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 92 -180 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 -120 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -132 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -180 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -120 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 -36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -144 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 73 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -156 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -108 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -120 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

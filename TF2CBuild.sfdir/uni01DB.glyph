@@ -1,13 +1,9 @@
 StartChar: uni01DB
-Encoding: 475 475 352
-AltUni2: 0001dc.ffffffff.0
+Encoding: 475 475 749
 Width: 1528
-AnchorPoint: "bottomattside" 744 16 basechar 0
-AnchorPoint: "bottomatt" 717 0 basechar 0
-AnchorPoint: "bottom" 768 -82 basechar 0
-AnchorPoint: "top" 793 2004 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 201 768 N 1 0 0 1 923 468 2
-Refer: 245 220 N 1 0 0 1 0 0 3
+Refer: 292 768 N 1 0 0 1 923 468 2
+Refer: 135 220 N 1 0 0 1 0 0 3
 EndChar

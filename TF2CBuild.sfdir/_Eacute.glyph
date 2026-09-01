@@ -1,14 +1,10 @@
 StartChar: Eacute
-Encoding: 201 201 227
-AltUni2: 0000e9.ffffffff.0
+Encoding: 201 201 116
 Width: 1271
+GlyphClass: 2
 Flags: W
-AnchorPoint: "bottomattside" 903 20 basechar 0
-AnchorPoint: "bottom" 594 -20 basechar 0
-AnchorPoint: "bottomatt" 522 20 basechar 0
-AnchorPoint: "top" 595 1745 basechar 0
 LayerCount: 2
 Fore
-Refer: 202 769 N 1 0 0 1 808 212 2
-Refer: 37 69 N 1 0 0 1 0 0 2
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 104 180 N 1 0 0 1 468 212 2
 EndChar

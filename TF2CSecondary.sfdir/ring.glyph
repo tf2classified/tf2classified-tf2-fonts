@@ -1,6 +1,7 @@
 StartChar: ring
-Encoding: 730 730 193
+Encoding: 730 730 196
 Width: 143
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2

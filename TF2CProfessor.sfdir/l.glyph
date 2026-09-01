@@ -1,11 +1,59 @@
 StartChar: l
-Encoding: 108 108 76
+Encoding: 108 108 78
 Width: 272
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottomattside" 239 58 basechar 0
-AnchorPoint: "bottom" 143 0 basechar 0
-AnchorPoint: "top" 67 358 basechar 0
+TtInstrs:
+PUSHW_3
+ 18
+ 12
+ 3
+CALL
+PUSHW_1
+ 12
+SRP0
+PUSHW_1
+ 14
+MDRP[rp0,grey]
+PUSHW_1
+ 14
+MDAP[rnd]
+SVTCA[y-axis]
+PUSHW_1
+ 16
+MDAP[rnd]
+PUSHW_3
+ 23
+ 6
+ 3
+CALL
+PUSHW_1
+ 6
+SRP0
+PUSHW_1
+ 4
+MDRP[rp0,grey]
+PUSHW_1
+ 4
+MDAP[rnd]
+PUSHW_1
+ 6
+SRP0
+PUSHW_1
+ 8
+MDRP[rp0,grey]
+PUSHW_1
+ 23
+SRP0
+PUSHW_1
+ 21
+MDRP[rp0,grey]
+PUSHW_1
+ 21
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -17,24 +65,26 @@ SplineSet
 226 46 m 1,4,-1
  174 44 l 1,5,-1
  166 42 l 1,6,-1
- 78 42 l 1,7,-1
- 54 50 l 1,8,-1
- 50 62 l 1,9,-1
- 45 248 l 1,10,-1
- 44 261 l 1,11,-1
- 44 301 l 1,12,-1
- 52 325 l 1,13,-1
- 64 329 l 1,14,-1
- 76 325 l 1,15,-1
- 80 313 l 1,16,-1
- 86 97 l 1,17,-1
- 90 85 l 1,18,-1
- 102 81 l 1,19,-1
- 224 89 l 1,20,-1
- 236 85 l 1,21,-1
- 240 73 l 1,22,-1
- 242 62 l 1,23,-1
- 238 50 l 1,24,-1
+ 110 42 l 1,7,-1
+ 102 42 l 1,8,-1
+ 78 42 l 1,9,-1
+ 54 50 l 1,10,-1
+ 50 62 l 1,11,-1
+ 45 248 l 1,12,-1
+ 44 261 l 1,13,-1
+ 44 301 l 1,14,-1
+ 52 325 l 1,15,-1
+ 64 329 l 1,16,-1
+ 76 325 l 1,17,-1
+ 80 313 l 1,18,-1
+ 86 97 l 1,19,-1
+ 90 85 l 1,20,-1
+ 102 81 l 1,21,-1
+ 224 89 l 1,22,-1
+ 236 85 l 1,23,-1
+ 240 73 l 1,24,-1
+ 242 62 l 1,25,-1
+ 238 50 l 1,26,-1
  226 46 l 1,4,-1
 EndSplineSet
 EndChar

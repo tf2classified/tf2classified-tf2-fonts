@@ -1,14 +1,10 @@
 StartChar: odieresis
-Encoding: 246 246 160
-Width: 622
+Encoding: 246 246 163
+Width: 585
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 292 -36 basechar 0
-AnchorPoint: "bottomattside" 390 4 basechar 0
-AnchorPoint: "bottomatt" 317 -3 basechar 0
-AnchorPoint: "top" 236 611 basechar 0
 LayerCount: 2
 Fore
-Refer: 313 776 S 1 0 0 1 316 -181 2
-Refer: 79 111 N 1 0 0 1 0 0 2
+Refer: 82 111 N 1 0 0 1 56 0 2
+Refer: 102 168 N 1 0 0 1 192 -177 2
 EndChar

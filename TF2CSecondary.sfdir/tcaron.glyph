@@ -1,13 +1,10 @@
 StartChar: tcaron
-Encoding: 357 357 350
+Encoding: 357 357 451
 Width: 358
+VWidth: 1024
 Flags: W
-AnchorPoint: "top" 133 681 basechar 0
-AnchorPoint: "bottom" 147 -28 basechar 0
-AnchorPoint: "bottomattside" 136 6 basechar 0
-AnchorPoint: "bottomatt" 169 5 basechar 0
 LayerCount: 2
 Fore
-Refer: 7 39 N 1 0 0 1 196 -28 2
-Refer: 84 116 N 1 0 0 1 0 0 2
+Refer: 10 39 N 1 0 0 1 191.406 -27.3438 2
+Refer: 87 116 N 1 0 0 1 0 0 2
 EndChar

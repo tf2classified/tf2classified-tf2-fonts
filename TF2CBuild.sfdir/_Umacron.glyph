@@ -1,13 +1,9 @@
 StartChar: Umacron
-Encoding: 362 362 280
-AltUni2: 00016b.ffffffff.0
+Encoding: 362 362 670
 Width: 1528
-AnchorPoint: "bottom" 768 -82 basechar 0
-AnchorPoint: "bottomatt" 717 0 basechar 0
-AnchorPoint: "bottomattside" 744 16 basechar 0
-AnchorPoint: "top" 802 1722 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 207 772 N 1 0 0 1 1053 143 2
-Refer: 53 85 N 1 0 0 1 0 0 2
+Refer: 296 772 N 1 0 0 1 1053 143 2
+Refer: 56 85 N 1 0 0 1 0 0 2
 EndChar

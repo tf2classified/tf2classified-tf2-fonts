@@ -1,0 +1,38 @@
+StartChar: afii10081
+Encoding: 1087 1087 247
+Width: 1558
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_1
+ 10
+CALL
+PUSHW_3
+ 4
+ 7
+ 13
+CALL
+SVTCA[y-axis]
+PUSHW_1
+ 0
+MDAP[rnd]
+PUSHW_1
+ 5
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+1413 1430 m 1,0,-1
+ 1456 33 l 1,1,-1
+ 1124 18 l 1,2,-1
+ 1083 1149 l 1,3,-1
+ 423 1134 l 1,4,-1
+ 430 0 l 1,5,-1
+ 2 0 l 1,6,-1
+ 0 1399 l 1,7,-1
+ 1413 1430 l 1,0,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,11 @@
+StartChar: ugrave
+Encoding: 249 249 164
+Width: 1530
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 88 117 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 483 215 2
+Kerns2: 92 -48 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 -72 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -42 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -42 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -84 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -108 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -48 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -48 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

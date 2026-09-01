@@ -1,13 +1,9 @@
 StartChar: ncaron
-Encoding: 328 328 342
-Width: 617
+Encoding: 328 328 430
+Width: 603
 Flags: W
-AnchorPoint: "bottom" 297 -5 basechar 0
-AnchorPoint: "bottomattside" 479 23 basechar 0
-AnchorPoint: "bottomatt" 310 24 basechar 0
-AnchorPoint: "top" 293 701 basechar 0
 LayerCount: 2
 Fore
-Refer: 387 780 S 1 0 0 1 417 -67 2
-Refer: 78 110 N 1 0 0 1 0 0 3
+Refer: 345 780 S 1 0 0 1 407.227 -65.4297 2
+Refer: 81 110 N 1 0 0 1 0 0 3
 EndChar

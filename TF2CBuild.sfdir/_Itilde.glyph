@@ -1,13 +1,9 @@
 StartChar: Itilde
-Encoding: 296 296 263
-AltUni2: 000129.ffffffff.0
+Encoding: 296 296 535
 Width: 585
-AnchorPoint: "bottom" 256 -61 basechar 0
-AnchorPoint: "bottomatt" 246 10 basechar 0
-AnchorPoint: "bottomattside" 102 31 basechar 0
-AnchorPoint: "top" 320 1711 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 204 771 N 1 0 0 1 569 137 2
-Refer: 41 73 N 1 0 0 1 0 0 2
+Refer: 295 771 N 1 0 0 1 569 137 2
+Refer: 44 73 N 1 0 0 1 0 0 2
 EndChar

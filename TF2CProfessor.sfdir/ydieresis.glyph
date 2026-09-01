@@ -1,11 +1,10 @@
 StartChar: ydieresis
-Encoding: 255 255 170
-AltUni2: 0003cb.ffffffff.0
+Encoding: 255 255 172
 Width: 305
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 89 121 N 1 0 0 1 0 0 2
-Refer: 98 168 S 1 0 0 1 58 42 2
+Refer: 91 121 N 1 0 0 1 0 0 3
+Refer: 100 168 N 1 0 0 1 58 42 2
 EndChar

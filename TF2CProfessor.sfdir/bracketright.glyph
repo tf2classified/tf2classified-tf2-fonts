@@ -1,8 +1,19 @@
 StartChar: bracketright
-Encoding: 93 93 61
+Encoding: 93 93 63
 Width: 320
 GlyphClass: 2
 Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_1
+ 4
+MDAP[rnd]
+PUSHW_1
+ 38
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

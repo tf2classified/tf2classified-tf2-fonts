@@ -1,13 +1,10 @@
 StartChar: Amacron
-Encoding: 256 256 333
+Encoding: 256 256 299
 Width: 645
+VWidth: 1024
 Flags: W
-AnchorPoint: "bottomatt" 314 -10 basechar 0
-AnchorPoint: "top" 249 841 basechar 0
-AnchorPoint: "bottom" 297 -10 basechar 0
-AnchorPoint: "bottomattside" 561 19 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 772 N 1 0 0 1 379 39 2
-Refer: 33 65 N 1 0 0 1 0 0 2
+Refer: 339 772 N 1 0 0 1 370.117 38.0859 2
+Refer: 36 65 N 1 0 0 1 0 0 2
 EndChar

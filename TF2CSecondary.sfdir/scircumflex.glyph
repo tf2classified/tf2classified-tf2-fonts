@@ -1,13 +1,9 @@
 StartChar: scircumflex
-Encoding: 349 349 422
-Width: 445
+Encoding: 349 349 447
+Width: 435
 Flags: W
-AnchorPoint: "bottom" 211 -30 basechar 0
-AnchorPoint: "bottomattside" 263 0 basechar 0
-AnchorPoint: "bottomatt" 226 -6 basechar 0
-AnchorPoint: "top" 210 737 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 770 N 1 0 0 1 316 -62 2
-Refer: 83 115 N 1 0 0 1 0 0 3
+Refer: 337 770 N 1 0 0 1 308.594 -60.5469 2
+Refer: 86 115 N 1 0 0 1 0 0 3
 EndChar

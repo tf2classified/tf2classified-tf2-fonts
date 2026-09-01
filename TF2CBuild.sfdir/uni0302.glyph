@@ -1,11 +1,8 @@
 StartChar: uni0302
-Encoding: 770 770 203
+Encoding: 770 770 294
 Width: 0
 Flags: W
-AnchorPoint: "marktop" -185 1266 mark 0
-AnchorPoint: "marktop" -185 1554 basemark 0
-AnchorPoint: "top" -185 1266 mark 0
 LayerCount: 2
 Fore
-Refer: 91 710 N 1 0 0 1 -372 0 2
+Refer: 194 710 N 1 0 0 1 -372 0 2
 EndChar

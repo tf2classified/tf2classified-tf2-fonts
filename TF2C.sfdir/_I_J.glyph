@@ -1,10 +1,10 @@
 StartChar: IJ
-Encoding: 306 306 315
-AltUni2: 000133.ffffffff.0
+Encoding: 306 306 514
 Width: 585
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 42 74 N 1 0 0 1 221 0 2
-Refer: 41 73 N 1 0 0 1 0 0 2
+Refer: 45 74 N 1 0 0 1 215.82 0 2
+Refer: 44 73 N 1 0 0 1 0 0 2
 EndChar

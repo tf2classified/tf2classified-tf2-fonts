@@ -1,10 +1,10 @@
 StartChar: Amacron
-Encoding: 256 256 172
-AltUni2: 000101.ffffffff.0
+Encoding: 256 256 474
 Width: 507
+VWidth: 1024
 Flags: W
 LayerCount: 2
 Fore
-Refer: 226 -1 N 1 0 0 1 0 0 2
-Refer: 174 175 S 1 0 0 1 115 73 2
+Refer: 284 -1 N 1 0 0 1 0 0 2
+Refer: 348 175 S 1 0 0 1 112.305 71.2891 2
 EndChar

@@ -1,8 +1,79 @@
 StartChar: plusminus
-Encoding: 177 177 103
+Encoding: 177 177 105
 Width: 368
 GlyphClass: 2
 Flags: W
+TtInstrs:
+PUSHW_3
+ 6
+ 10
+ 3
+CALL
+PUSHW_1
+ 6
+SRP0
+PUSHW_1
+ 4
+MDRP[rp0,grey]
+PUSHW_1
+ 4
+MDAP[rnd]
+PUSHW_1
+ 10
+SRP0
+PUSHW_1
+ 12
+MDRP[rp0,grey]
+PUSHW_1
+ 12
+MDAP[rnd]
+SVTCA[y-axis]
+PUSHW_1
+ 33
+MDAP[rnd]
+PUSHW_3
+ 60
+ 48
+ 3
+CALL
+PUSHW_3
+ 41
+ 0
+ 3
+CALL
+PUSHW_1
+ 0
+SRP0
+PUSHW_1
+ 2
+MDRP[rp0,grey]
+PUSHW_1
+ 2
+MDAP[rnd]
+PUSHW_1
+ 0
+SRP0
+PUSHW_1
+ 17
+MDRP[rp0,grey]
+PUSHW_1
+ 41
+SRP0
+PUSHW_1
+ 23
+MDRP[rp0,grey]
+PUSHW_1
+ 60
+SRP0
+PUSHW_1
+ 57
+MDRP[rp0,grey]
+PUSHW_1
+ 57
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -53,7 +124,7 @@ SplineSet
  320 400 l 1,44,-1
  316 388 l 1,45,-1
  304 384 l 1,0,-1
-332 116 m 1,46,-1
+324 108 m 1,46,-1
  316 100 l 1,47,-1
  304 96 l 1,48,-1
  128 96 l 1,49,-1
@@ -70,6 +141,7 @@ SplineSet
  320 144 l 1,60,-1
  332 140 l 1,61,-1
  336 128 l 1,62,-1
- 332 116 l 1,46,-1
+ 332 116 l 1,63,-1
+ 324 108 l 1,46,-1
 EndSplineSet
 EndChar

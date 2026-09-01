@@ -1,11 +1,7 @@
 StartChar: mu
-Encoding: 181 181 173
+Encoding: 181 181 768
 Width: 972
 Flags: W
-AnchorPoint: "bottomattside" 198 -430 basechar 0
-AnchorPoint: "bottomatt" 149 -426 basechar 0
-AnchorPoint: "bottom" 130 -492 basechar 0
-AnchorPoint: "top" 478 919 basechar 0
 LayerCount: 2
 Fore
 SplineSet

@@ -1,14 +1,46 @@
 StartChar: Zdotaccent
-Encoding: 379 379 189
-Width: 653
+Encoding: 379 379 192
+Width: 638
 GlyphClass: 2
 Flags: W
-AnchorPoint: "bottom" 364 -26 basechar 0
-AnchorPoint: "bottomattside" 604 14 basechar 0
-AnchorPoint: "bottomatt" 372 17 basechar 0
-AnchorPoint: "top" 353 874 basechar 0
+TtInstrs:
+PUSHW_1
+ 20
+CALL
+SVTCA[y-axis]
+PUSHW_1
+ 17
+MDAP[rnd]
+PUSHW_3
+ 12
+ 19
+ 23
+CALL
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 384 775 S 1 0 0 1 397 83 2
-Refer: 58 90 N 1 0 0 1 0 0 2
+SplineSet
+368 820 m 0,0,1
+ 382 810 382 810 384.5 795 c 128,-1,2
+ 387 780 387 780 379 766 c 0,3,4
+ 370 753 370 753 353 750.5 c 128,-1,5
+ 336 748 336 748 320 757 c 0,6,7
+ 306 766 306 766 303.5 781 c 128,-1,8
+ 301 796 301 796 310 810 c 0,9,10
+ 319 822 319 822 336 825 c 128,-1,11
+ 353 828 353 828 368 820 c 0,0,1
+595 694 m 1,12,-1
+ 596 659 l 1,13,-1
+ 205 60 l 1,14,-1
+ 586 78 l 1,15,-1
+ 591 10 l 1,16,-1
+ 105 0 l 1,17,-1
+ 100 45 l 1,18,-1
+ 500 643 l 1,19,-1
+ 50 639 l 1,20,-1
+ 45 700 l 1,21,-1
+ 595 694 l 1,12,-1
+EndSplineSet
 EndChar
