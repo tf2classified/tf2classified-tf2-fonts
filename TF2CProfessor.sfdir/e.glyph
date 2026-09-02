@@ -3,110 +3,6 @@ Encoding: 101 101 71
 Width: 256
 GlyphClass: 2
 Flags: W
-TtInstrs:
-PUSHW_3
- 48
- 19
- 3
-CALL
-PUSHW_1
- 48
-SRP0
-PUSHW_1
- 4
-MDRP[rp0,grey]
-PUSHW_1
- 4
-MDAP[rnd]
-PUSHW_1
- 48
-SRP0
-PUSHW_1
- 6
-MDRP[rp0,grey]
-PUSHW_1
- 6
-MDAP[rnd]
-PUSHW_1
- 48
-SRP0
-PUSHW_1
- 23
-MDRP[rp0,min,rnd,grey]
-PUSHW_1
- 25
-MDRP[rp0,grey]
-PUSHW_1
- 25
-MDAP[rnd]
-PUSHW_1
- 19
-SRP0
-PUSHW_1
- 29
-MDRP[rp0,grey]
-PUSHW_1
- 29
-MDAP[rnd]
-PUSHW_1
- 19
-SRP0
-PUSHW_1
- 31
-MDRP[rp0,grey]
-PUSHW_1
- 19
-SRP0
-PUSHW_1
- 33
-MDRP[rp0,grey]
-PUSHW_1
- 33
-MDAP[rnd]
-SVTCA[y-axis]
-PUSHW_1
- 15
-MDAP[rnd]
-PUSHW_1
- 17
-MDAP[rnd]
-PUSHW_1
- 35
-MDAP[rnd]
-PUSHW_1
- 37
-MDAP[rnd]
-PUSHW_3
- 9
- 16
- 3
-CALL
-PUSHW_3
- 51
- 2
- 3
-CALL
-PUSHW_1
- 2
-SRP0
-PUSHW_1
- 0
-MDRP[rp0,grey]
-PUSHW_1
- 0
-MDAP[rnd]
-PUSHW_1
- 16
-SRP0
-PUSHW_1
- 13
-MDRP[rp0,grey]
-PUSHW_1
- 13
-MDAP[rnd]
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -144,27 +40,26 @@ SplineSet
  52 263 l 1,31,-1
  52 285 l 1,32,-1
  54 317 l 1,33,-1
- 68 322 l 1,34,-1
- 80 326 l 1,35,-1
- 112 326 l 1,36,-1
- 124 322 l 1,37,-1
- 176 311 l 1,38,-1
- 188 308 l 1,39,-1
- 192 296 l 1,40,-1
- 188 285 l 1,41,-1
- 180 285 l 1,42,-1
- 140 293 l 1,43,-1
- 128 296 l 1,44,-1
- 112 296 l 1,45,-1
- 100 293 l 1,46,-1
- 96 282 l 1,47,-1
- 96 237 l 1,48,-1
- 100 226 l 1,49,-1
- 112 223 l 1,50,-1
- 208 223 l 1,51,-1
- 220 219 l 1,52,-1
- 224 208 l 1,53,-1
- 220 197 l 1,54,-1
+ 80 326 l 1,34,-1
+ 112 326 l 1,35,-1
+ 124 322 l 1,36,-1
+ 176 311 l 1,37,-1
+ 188 308 l 1,38,-1
+ 192 296 l 1,39,-1
+ 188 285 l 1,40,-1
+ 180 285 l 1,41,-1
+ 140 293 l 1,42,-1
+ 128 296 l 1,43,-1
+ 112 296 l 1,44,-1
+ 100 293 l 1,45,-1
+ 96 282 l 1,46,-1
+ 96 237 l 1,47,-1
+ 100 226 l 1,48,-1
+ 112 223 l 1,49,-1
+ 208 223 l 1,50,-1
+ 220 219 l 1,51,-1
+ 224 208 l 1,52,-1
+ 220 197 l 1,53,-1
  208 193 l 1,0,-1
 EndSplineSet
 EndChar

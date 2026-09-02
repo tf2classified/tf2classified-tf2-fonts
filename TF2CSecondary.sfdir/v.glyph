@@ -1,40 +1,20 @@
 StartChar: v
 Encoding: 118 118 89
 Width: 562
+VWidth: 1024
 GlyphClass: 2
 Flags: W
-TtInstrs:
-SVTCA[y-axis]
-PUSHW_1
- 1
-MDAP[rnd]
-PUSHW_1
- 3
-MDAP[rnd]
-PUSHW_1
- 5
-MDAP[rnd]
-PUSHW_3
- 2
- 5
- 3
-SRP1
-SRP2
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-1 457 m 1,0,-1
- 62 487 l 1,1,-1
- 257 106 l 1,2,-1
- 448 489 l 1,3,-1
- 525 451 l 1,4,-1
- 281 -3 l 1,5,-1
- 248 0 l 1,6,-1
- 1 457 l 1,0,-1
+1 468 m 1,0,-1
+ 63 499 l 1,1,-1
+ 263 109 l 1,2,-1
+ 459 501 l 1,3,-1
+ 538 462 l 1,4,-1
+ 288 -3 l 1,5,-1
+ 254 0 l 1,6,-1
+ 1 468 l 1,0,-1
 EndSplineSet
 Kerns2: 92 -31 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -94 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -181 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -86 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 -78 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -94 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 -135 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 37 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -228 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -76 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -76 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
